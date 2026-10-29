@@ -1,0 +1,38 @@
+{
+  "unit_tests_passed": 10,
+  "full_sweep_launched": false,
+  "prepared_fits": 2442,
+  "cluster_smoke": {
+    "verified_fits": 42,
+    "expected_fits": 42,
+    "historical_tsgam": false,
+    "warning_fits": 0
+  },
+  "historical_profile_check": {
+    "verified_fits": 6,
+    "expected_fits": 6,
+    "historical_tsgam": true,
+    "warning_fits": 0
+  },
+  "smoke_counties": [
+    "Ada ID",
+    "Lincoln OR",
+    "Spokane WA",
+    "Multnomah OR",
+    "San Luis Obispo CA",
+    "Maricopa AZ",
+    "Solano CA"
+  ],
+  "source_sha256": {
+    "calendar_weather.py": "bf5b974bccbe924b1ba91e294673ed15988ef8256b3e6628d0ab2c109801351d",
+    "example.py": "1821d9bf42531ad8b833b4f6a15eb7f2f27ca8148b682fb2deed07fd361dbb59",
+    "compare.py": "7faeb0369f3eb78c210e317116ef327f2f8c02b4cb2b8e44d236b49ab22fabba",
+    "inputs.json": "2ffe01734f8c60c75255f937f381599539128b0f5f7bfd3bde63bf953c4497ba",
+    "clusters.json": "8f4f1a6d2a3ba95896e569be985ab4f7f4708fe2291eedbef5e3561be03e4541",
+    "reference/historical_metrics.csv": "1ccf113af23b911b1b92e918396120cc957c434a1b136b32701b789bc5e01234",
+    "environment/uv.lock": "0caccb2b8fab1e543998f7ba2d6780add7ebfcdd3287c16b075f8f6afd7c679f",
+    "environment/pyproject.toml": "7178778f85b28cc3c9497449f36824fe7059178a5502f97518772b459c29da59",
+    "environment/verify_environment.py": "af1746af31afa91742173389075d157707b586a5a6844a170c66d176338be1b8",
+    "environment/installed-environment.json": "5f5ff6a1c0cae6cc0f104be935ed1f95ce3b0dd9f2cce4f4a95b344b92bba0a7"
+  }
+}

@@ -53,7 +53,7 @@ are recorded in [reference/input_bundle.json](reference/input_bundle.json).
 ```sh
 uv run --project environment --locked python compare.py \
   --inputs inputs --output outputs/historical \
-  --tsgam-reg-weight 6e-5 --tsgam-diff-reg-weight 0.5
+  --profile historical
 ```
 
 This runs 407 counties × 2 holdouts × 3 models = 2,442 fits, using eight workers
@@ -68,28 +68,61 @@ For a quick real-data reproduction check, append:
 --counties "Los Angeles CA" "Maricopa AZ" "Spokane WA"
 ```
 
-## Current fixed regularization
+## Planned cluster-harmonic comparison (default profile)
 
-The new experiment setting holds MultiPeriodic and both weather-spline `reg_weight`
-values at `1e-4`. The difference penalty defaults to `0.5`; the sweep did not select
-a new permanent difference penalty. To run this comparison:
+Each county receives its assigned medoid's **harmonic counts**, then is fitted
+independently on its own load/weather observations. Coefficients are not transferred.
+The frozen [clusters.json](clusters.json) assignments match the original comparison's
+407 counties exactly. The runner rejects incomplete coverage or unknown medoids.
+
+| Medoid | Annual, weekly, daily harmonics |
+|---|---|
+| Lincoln OR | (4, 2, 3) |
+| Spokane WA | (4, 5, 7) |
+| Multnomah OR | (2, 5, 5) |
+| San Luis Obispo CA | (4, 5, 8) |
+| Maricopa AZ | (4, 3, 7) |
+| Solano CA | (5, 2, 7) |
+
+TSGAM uses `reg_weight=1e-4` for MultiPeriodic and both weather-spline blocks,
+`diff_reg_weight=10` and `whiten=True` for both weather-spline blocks. Temperature
+retains 10 knots and offsets [-3,-2,-1,0]; humidity retains 8 knots and offsets
+[-2,-1,0]. The log-load target, CLARABEL solver and daily outlier component
+(weight 1e-4) are unchanged. No trend, AR or interaction blocks are added.
+OLS and XGBoost remain unchanged.
+
+The reviewed parameters, cluster sizes, expected fit count and source hashes are
+recorded in [reference/planned_cluster_comparison.json](reference/planned_cluster_comparison.json).
+
+Prepare and inspect all 2,442 cases **without fitting**:
 
 ```sh
 uv run --project environment --locked python compare.py \
-  --inputs inputs --output outputs/reg-1e-4
+  --inputs inputs --output outputs/cluster-harmonics --prepare-only
 ```
 
-Use `--tsgam-diff-reg-weight 0.1` (and a fresh output directory) to evaluate another
-difference penalty, or `--models ols xgboost` to run just the conventional baselines.
-These options change the experiment configuration, not package defaults. Historical
-OLS/XGBoost scores are checked for every setting; historical TSGAM scores are checked
-only when both original weights are selected.
+After reviewing `outputs/cluster-harmonics/manifest.json`, launch the same plan:
+
+```sh
+uv run --project environment --locked python compare.py \
+  --inputs inputs --output outputs/cluster-harmonics
+```
+
+Use `--counties` for a smoke check or `--models ols xgboost` for just the conventional
+baselines. Overrides `--tsgam-reg-weight`, `--tsgam-diff-reg-weight` and
+`--whiten`/`--no-whiten` require a fresh output directory if they change the plan.
+These options do not change package defaults. Historical OLS/XGBoost scores are
+checked in every run. Historical TSGAM scores are checked only under the historical
+profile with both original weights and whitening disabled.
 
 ## Outputs and verification
 
 Each run records its configuration, code/lock/input hashes, per-fit metrics, prediction
 files and hashes, training/scoring timestamp hashes, warnings and elapsed time.
-`summary.csv` reports unweighted means across counties. Interrupted runs resume by
+`summary.csv` reports unweighted means across counties; `cluster_summary.csv`
+groups the same metrics by assigned medoid. `paired_metrics.csv` and `comparisons.csv`
+give county-level comparisons and aggregate TSGAM-versus-baseline differences/wins.
+Interrupted runs resume by
 repeating the same command. A changed model or source manifest requires a new output
 directory. Append `--verify-only` to repeat verification without fitting.
 
@@ -101,5 +134,6 @@ county loads. Regularization sweeps reuse these holdouts and constitute tuning,
 not independent validation.
 
 The directory retains earlier validation records as historical evidence. The branch's
-fresh smoke-test results are in `reference/branch_validation.json`; they do not claim
-that the complete 2,442-fit study was rerun during branch preparation.
+initial smoke-test results are in `reference/branch_validation.json` (the initial
+runner revision). Cluster-profile checks are in `reference/cluster_validation.json`.
+Neither claims that the complete 2,442-fit study was rerun during branch preparation.
