@@ -1,0 +1,9 @@
+{
+  "complete": true,
+  "verified_fits": 2442,
+  "expected_fits": 2442,
+  "paired_county_holdouts": 814,
+  "warning_fits": 0,
+  "rank_deficient_ols": 0,
+  "negative_holdout_predictions": 0
+}

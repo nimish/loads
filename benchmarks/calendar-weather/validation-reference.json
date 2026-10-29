@@ -1,0 +1,77 @@
+{
+  "reference_run": "2026-10-20-calendar-and-weather-humidity",
+  "checks": [
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5d",
+      "model": "ols",
+      "max_absolute_difference_mw": 1.800799509510398e-10
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5d",
+      "model": "xgboost",
+      "max_absolute_difference_mw": 0.0
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5w",
+      "model": "ols",
+      "max_absolute_difference_mw": 1.8826540326699615e-10
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5w",
+      "model": "xgboost",
+      "max_absolute_difference_mw": 0.0
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5d",
+      "model": "ols",
+      "max_absolute_difference_mw": 9.822542779147625e-11
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5d",
+      "model": "xgboost",
+      "max_absolute_difference_mw": 0.0
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5w",
+      "model": "ols",
+      "max_absolute_difference_mw": 1.3096723705530167e-10
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5w",
+      "model": "xgboost",
+      "max_absolute_difference_mw": 0.0
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5d",
+      "model": "ols",
+      "max_absolute_difference_mw": 1.233502189279534e-11
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5d",
+      "model": "xgboost",
+      "max_absolute_difference_mw": 0.0
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5w",
+      "model": "ols",
+      "max_absolute_difference_mw": 1.2278178473934531e-11
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5w",
+      "model": "xgboost",
+      "max_absolute_difference_mw": 0.0
+    }
+  ]
+}

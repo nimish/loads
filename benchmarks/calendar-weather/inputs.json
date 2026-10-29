@@ -1,0 +1,2037 @@
+[
+  {
+    "county": "Ada ID",
+    "file": "ID_Ada.csv.gz",
+    "sha256": "25c9ee7d9c6d701159432c6e6171d6e3e55723113f72a559a2cfd73be0b9e9e2"
+  },
+  {
+    "county": "Adams CO",
+    "file": "CO_Adams.csv.gz",
+    "sha256": "887dfb6663b2a739d5824a487085bcc7e74351426c9028bbb9c1ed15365dee61"
+  },
+  {
+    "county": "Adams ID",
+    "file": "ID_Adams.csv.gz",
+    "sha256": "c268125135e3c0a044d416546e85d66ff2d53b606b9b012b6040e9ab7142cb5d"
+  },
+  {
+    "county": "Adams WA",
+    "file": "WA_Adams.csv.gz",
+    "sha256": "d800dee73131cb09b95ae9b3a27dde729bef8138d3ef307e65e5c477e9b6dcdc"
+  },
+  {
+    "county": "Alameda CA",
+    "file": "CA_Alameda.csv.gz",
+    "sha256": "3eb1c803e889832e94a03768e64f7634be3a40059937e424a228c2ac7170905e"
+  },
+  {
+    "county": "Alamosa CO",
+    "file": "CO_Alamosa.csv.gz",
+    "sha256": "0370e85c01fd6d73ea4341d42d811859db4b6c4a7accafddeadc4fb04128c816"
+  },
+  {
+    "county": "Albany WY",
+    "file": "WY_Albany.csv.gz",
+    "sha256": "4d2ff8a9b21b425f8249dc4e2fa419b81d61e9b4ce34a37d6191d1b93c368a72"
+  },
+  {
+    "county": "Alpine CA",
+    "file": "CA_Alpine.csv.gz",
+    "sha256": "051d616739ad82d8ffa926170534bff4c0c519bd5aa915cbb7ac76831eac6ab0"
+  },
+  {
+    "county": "Amador CA",
+    "file": "CA_Amador.csv.gz",
+    "sha256": "cf40a0f55d8e46eaae9be726ab6a7bc613bc0185bafe3d3c3cd21a30eba0f9a9"
+  },
+  {
+    "county": "Apache AZ",
+    "file": "AZ_Apache.csv.gz",
+    "sha256": "5f54d9993c078e68575c444837a99d7896780f5b96989db98aa4f5da3b6dfb31"
+  },
+  {
+    "county": "Arapahoe CO",
+    "file": "CO_Arapahoe.csv.gz",
+    "sha256": "074bd55aeaeba9cb056442af5a86ad0aaae0f61d6b61a594a31e3f4d0fc3d241"
+  },
+  {
+    "county": "Archuleta CO",
+    "file": "CO_Archuleta.csv.gz",
+    "sha256": "6f6597975630c1c0359778b7654e653cd66d28d59201218c6ab853bc9ce99423"
+  },
+  {
+    "county": "Asotin WA",
+    "file": "WA_Asotin.csv.gz",
+    "sha256": "f29e80655d41e913dbdf255986ccc76aaa2e19bbc5501cda1120e8fc798690da"
+  },
+  {
+    "county": "Baca CO",
+    "file": "CO_Baca.csv.gz",
+    "sha256": "7f0506092317ec1bd36b749399f903dcb86e4656d928bd13801243cc09fc9059"
+  },
+  {
+    "county": "Baker OR",
+    "file": "OR_Baker.csv.gz",
+    "sha256": "cad8bf0bbdf07c4ee5e420d476600c49cb3c68ed8b7340a4921cc3626d033cc2"
+  },
+  {
+    "county": "Bannock ID",
+    "file": "ID_Bannock.csv.gz",
+    "sha256": "fa5651436a0861f03ef436c1337d183e72e196ea98ab679b8ce8936aa9ebd411"
+  },
+  {
+    "county": "Bear Lake ID",
+    "file": "ID_Bear_Lake.csv.gz",
+    "sha256": "a2c7b5461867ca8981ae2ef8f9584a85369cadb20670d1e1eb23a521ed9c421a"
+  },
+  {
+    "county": "Beaver UT",
+    "file": "UT_Beaver.csv.gz",
+    "sha256": "fc8ab52dd17f0202dea3e0387100c2af505eb91b97ce41f0ca8781585de16a37"
+  },
+  {
+    "county": "Beaverhead MT",
+    "file": "MT_Beaverhead.csv.gz",
+    "sha256": "65706dcf45747051ad7e5e204fac145c40422439ea725d706a43147659ed50b6"
+  },
+  {
+    "county": "Benewah ID",
+    "file": "ID_Benewah.csv.gz",
+    "sha256": "cbecce0557789c034d879c4346b9ef524847af0f9794f571d084d948ec5a1c0f"
+  },
+  {
+    "county": "Bent CO",
+    "file": "CO_Bent.csv.gz",
+    "sha256": "081572bd1924c772029cdcfbc31e6c52f845dd2a520cb58511fa91e51058d137"
+  },
+  {
+    "county": "Benton OR",
+    "file": "OR_Benton.csv.gz",
+    "sha256": "804a258d831a4b31aaae1478136d43eabf61c742a6c45e67e9e9d0c71f1689a4"
+  },
+  {
+    "county": "Benton WA",
+    "file": "WA_Benton.csv.gz",
+    "sha256": "e7863e26c58aeef3037a1a436a330ffcb105225a8aa21006b93446795025ea40"
+  },
+  {
+    "county": "Bernalillo NM",
+    "file": "NM_Bernalillo.csv.gz",
+    "sha256": "826161216cdd1a4de8bfd08be09209297ee067b8b38aae8d96348cca7f5988df"
+  },
+  {
+    "county": "Big Horn MT",
+    "file": "MT_Big_Horn.csv.gz",
+    "sha256": "4d2a67d31fd6fb965bf2fd1ed43a94fb3d2260afbf4885fae6e2fcf3a382f4f4"
+  },
+  {
+    "county": "Big Horn WY",
+    "file": "WY_Big_Horn.csv.gz",
+    "sha256": "f67eaaad10476f69c27a24a259701633c25a6e9c20e99b0c9f4948f41d559686"
+  },
+  {
+    "county": "Bingham ID",
+    "file": "ID_Bingham.csv.gz",
+    "sha256": "e96787e22712b6b33a277e06e274b7f2590980eebc06bf962eb47f2845355502"
+  },
+  {
+    "county": "Blaine ID",
+    "file": "ID_Blaine.csv.gz",
+    "sha256": "d43abb8377d0a253d1862d1e0cff88ed3c1f030768bcabae212bb8a4e3ae919c"
+  },
+  {
+    "county": "Blaine MT",
+    "file": "MT_Blaine.csv.gz",
+    "sha256": "d2b62b0f3a16107b6326c9db7e14c5ed34baf97bdd07533832b5109cc1d7e815"
+  },
+  {
+    "county": "Boise ID",
+    "file": "ID_Boise.csv.gz",
+    "sha256": "ba2fb8420cb2ba86d20fdaa13c0b96c301b4131e85623cd47ba3e1d7ae1e7566"
+  },
+  {
+    "county": "Bonner ID",
+    "file": "ID_Bonner.csv.gz",
+    "sha256": "102be8206021357ec10cbb88e76c836a6e85c845c1c5b6c8a3a8a8094053bf2c"
+  },
+  {
+    "county": "Bonneville ID",
+    "file": "ID_Bonneville.csv.gz",
+    "sha256": "bb3e29388c1521edd503d88ffe3c7bdfacf3c434aa5fcdffd7930929d9eedb2d"
+  },
+  {
+    "county": "Boulder CO",
+    "file": "CO_Boulder.csv.gz",
+    "sha256": "69bf9b25ca681ac9a17579f9d66b0b6e3342968accbe22b75a17681c0d592846"
+  },
+  {
+    "county": "Boundary ID",
+    "file": "ID_Boundary.csv.gz",
+    "sha256": "bf1c8001955766b8d7f13e2af6a6671ffc61a89450d9d08495d9cac1f9567a2e"
+  },
+  {
+    "county": "Box Elder UT",
+    "file": "UT_Box_Elder.csv.gz",
+    "sha256": "2bfa631be8b5e5ef8fb1e3b4ef56e0dc10924e7dd254eb3e0c9ff0a523f46222"
+  },
+  {
+    "county": "Broadwater MT",
+    "file": "MT_Broadwater.csv.gz",
+    "sha256": "00176d6ce597a013b41739c4b57fd6c287e07ab93282771354f97175004d63ce"
+  },
+  {
+    "county": "Broomfield CO",
+    "file": "CO_Broomfield.csv.gz",
+    "sha256": "55f39b44b65010332788f142ab212103d390ba3082a8365f188da61d34e26f5b"
+  },
+  {
+    "county": "Butte CA",
+    "file": "CA_Butte.csv.gz",
+    "sha256": "32d6115f0785ac168df50bd78f2e392d985121483a88c67e378c7e36a6087f30"
+  },
+  {
+    "county": "Butte ID",
+    "file": "ID_Butte.csv.gz",
+    "sha256": "8047b0d600e47148ccf7178c651220277419927b634def15ee3b0e13e3261a51"
+  },
+  {
+    "county": "Cache UT",
+    "file": "UT_Cache.csv.gz",
+    "sha256": "c3dee94d820e82ae7039bd88441eb8c077cc890552d04e887f6ab976b89696b9"
+  },
+  {
+    "county": "Calaveras CA",
+    "file": "CA_Calaveras.csv.gz",
+    "sha256": "b58c768b29fc658ba7109c79eca759f8eb1d2fd660aa7e5a96b09c8648415420"
+  },
+  {
+    "county": "Camas ID",
+    "file": "ID_Camas.csv.gz",
+    "sha256": "f1a96dcb0c1e003fcbc0d8a30d5a50ad99593e17982747adce846d4f3fa203dc"
+  },
+  {
+    "county": "Campbell WY",
+    "file": "WY_Campbell.csv.gz",
+    "sha256": "972192598a8e75ebdb7bc8a3359f6512bd761f7d4b8447d01bcb389aaa5938f4"
+  },
+  {
+    "county": "Canyon ID",
+    "file": "ID_Canyon.csv.gz",
+    "sha256": "7d9ef007674c717e20f94a14111a07f2d1619ebff3365aa0c128759914c2e0e9"
+  },
+  {
+    "county": "Carbon MT",
+    "file": "MT_Carbon.csv.gz",
+    "sha256": "2a10741089ad32cc42b3fe2ec92b86d54e1e699a2345fe230343c0481c97df7d"
+  },
+  {
+    "county": "Carbon UT",
+    "file": "UT_Carbon.csv.gz",
+    "sha256": "d84f72d00c1ce086556ce21e396560141adc74eba8fecc6c7ccb980774af7192"
+  },
+  {
+    "county": "Carbon WY",
+    "file": "WY_Carbon.csv.gz",
+    "sha256": "28c6919dcba3454253ef3d825991fa2699025a6c4b5407f2dee9e265b63e3cb2"
+  },
+  {
+    "county": "Caribou ID",
+    "file": "ID_Caribou.csv.gz",
+    "sha256": "d308cda57a76b3f66c2ee787f8a58fa81b4bbdc29d2a90c73a0ddf5217927369"
+  },
+  {
+    "county": "Carson City NV",
+    "file": "NV_Carson_City.csv.gz",
+    "sha256": "000e890cfe3210b06bb70115a3d130eb90c860bbd91c4da8ae94b011bc389e8f"
+  },
+  {
+    "county": "Carter MT",
+    "file": "MT_Carter.csv.gz",
+    "sha256": "9e0acc76a60a49cbaaa7056d0bfa4b016149cc38fc7e1483d55eeda836cf8903"
+  },
+  {
+    "county": "Cascade MT",
+    "file": "MT_Cascade.csv.gz",
+    "sha256": "7ca14cdcf7b2c494171fac46d6d20a8865eb791087c288f5b4edfc624a18d860"
+  },
+  {
+    "county": "Cassia ID",
+    "file": "ID_Cassia.csv.gz",
+    "sha256": "041304ea9b243b5cc6e594fbf39fb0a106e6bb8b1d2781da3377853df8cec6a7"
+  },
+  {
+    "county": "Catron NM",
+    "file": "NM_Catron.csv.gz",
+    "sha256": "855b1de581362be9fb51b25bfb3cb99550c9b83d564ae1a89426793e33c5d33f"
+  },
+  {
+    "county": "Chaffee CO",
+    "file": "CO_Chaffee.csv.gz",
+    "sha256": "8fcb4c2e0faaade2f73361536850ca1c53baeb64be9003df469b1552d23c3e4c"
+  },
+  {
+    "county": "Chaves NM",
+    "file": "NM_Chaves.csv.gz",
+    "sha256": "6fee6fdcd7e4e99270e659248c5e117245b9286a3723dd87d375c5b083a84488"
+  },
+  {
+    "county": "Chelan WA",
+    "file": "WA_Chelan.csv.gz",
+    "sha256": "019daf8ddef990667ea195a6ab81a34699d0193b5aeb91b9f4daf238088e0f94"
+  },
+  {
+    "county": "Cheyenne CO",
+    "file": "CO_Cheyenne.csv.gz",
+    "sha256": "48bf43f4d6f995eb0d151573e06af1c0905e94885784879457ec8bc49c19df9d"
+  },
+  {
+    "county": "Chouteau MT",
+    "file": "MT_Chouteau.csv.gz",
+    "sha256": "1591de19b91a5e2987c2b6fe1e84208eeccfca5a7d528e6db73ccf2e8a7bf864"
+  },
+  {
+    "county": "Churchill NV",
+    "file": "NV_Churchill.csv.gz",
+    "sha256": "069b51f93eebfbcb80510912cbc0e7f99f4317508a8e346d0d38961d9f72a2a2"
+  },
+  {
+    "county": "Cibola NM",
+    "file": "NM_Cibola.csv.gz",
+    "sha256": "3dc71658906c51651dbb5e755b421909ecf1ac98062a6e82cf52398fb2d87b8b"
+  },
+  {
+    "county": "Clackamas OR",
+    "file": "OR_Clackamas.csv.gz",
+    "sha256": "bc608ae46fa57a9931ccd1f52db6f7d2b25725906f8fc6881e1f6adbf50639cd"
+  },
+  {
+    "county": "Clallam WA",
+    "file": "WA_Clallam.csv.gz",
+    "sha256": "1735a9ae45d7eeaa9828b93b538b367787dbdd0f839bc9afb02e2b12ab325580"
+  },
+  {
+    "county": "Clark ID",
+    "file": "ID_Clark.csv.gz",
+    "sha256": "25bff18fa296b1eeef8eda52100618b7bd109ec4da6372d2663ffa5c215cedff"
+  },
+  {
+    "county": "Clark NV",
+    "file": "NV_Clark.csv.gz",
+    "sha256": "f4feba8f9755999192869270ad49a0c33592e726d37ba9f53e68cd0abd1bd680"
+  },
+  {
+    "county": "Clark WA",
+    "file": "WA_Clark.csv.gz",
+    "sha256": "98c8c3793410e4f1c84cef34333c5c682fe0533337001fde5e787a2bcae059aa"
+  },
+  {
+    "county": "Clatsop OR",
+    "file": "OR_Clatsop.csv.gz",
+    "sha256": "094ed9ee1e31da270c45e73c2abfcbd7e822a53f44a8e99a07690f22c3e5d47d"
+  },
+  {
+    "county": "Clear Creek CO",
+    "file": "CO_Clear_Creek.csv.gz",
+    "sha256": "50a5c81c1247b96b2d4f3fe176fc2a0cbc1755b0b672e1acbef2b6e8ec1c5191"
+  },
+  {
+    "county": "Clearwater ID",
+    "file": "ID_Clearwater.csv.gz",
+    "sha256": "56bfeedb4187a38d3216616cc7fbf7cacf08faa254e847f91a01e58331023316"
+  },
+  {
+    "county": "Cochise AZ",
+    "file": "AZ_Cochise.csv.gz",
+    "sha256": "8bb85dbc6098a6c9d6277fd414dcb2eb61ef9a42e9d5e55d5e61b4ff94ef46b7"
+  },
+  {
+    "county": "Coconino AZ",
+    "file": "AZ_Coconino.csv.gz",
+    "sha256": "7c4b6d5d5e3b5fc008497b8fe211035b12dc5a441305a87e59d7d36c8a90201d"
+  },
+  {
+    "county": "Colfax NM",
+    "file": "NM_Colfax.csv.gz",
+    "sha256": "98333dabd97a6b3e0781a73927f0009ff5de6113721b6f2fbc6df0e9a95d370b"
+  },
+  {
+    "county": "Columbia OR",
+    "file": "OR_Columbia.csv.gz",
+    "sha256": "349f982e2f407ccb2f11658c3405707c7731045055ca020bf29855f0fffeea11"
+  },
+  {
+    "county": "Columbia WA",
+    "file": "WA_Columbia.csv.gz",
+    "sha256": "810eb0680cbeb16e222adea8f6d1c048308db9058820c03c4d2fdc724ae739c0"
+  },
+  {
+    "county": "Colusa CA",
+    "file": "CA_Colusa.csv.gz",
+    "sha256": "b284adb6882030b25e5019d030ce230e33a81196ef93943e52c40ba1af735373"
+  },
+  {
+    "county": "Conejos CO",
+    "file": "CO_Conejos.csv.gz",
+    "sha256": "bb47f6dfac34a5cd97f280eec394112477653f8dc37245c482cc644331ba163a"
+  },
+  {
+    "county": "Contra Costa CA",
+    "file": "CA_Contra_Costa.csv.gz",
+    "sha256": "45652b2df035358138e1137f93fbdace4b7c854b2f348ed9f4e3542ae5a5676d"
+  },
+  {
+    "county": "Converse WY",
+    "file": "WY_Converse.csv.gz",
+    "sha256": "5664aa29e48068163005fc081a8f56c4827a29aca0b1c9532465f8bf58fedb51"
+  },
+  {
+    "county": "Coos OR",
+    "file": "OR_Coos.csv.gz",
+    "sha256": "20f040ba2900fcbd4929c42a91421b5e84fa7773c18e6f4efca00912ccd5b16c"
+  },
+  {
+    "county": "Costilla CO",
+    "file": "CO_Costilla.csv.gz",
+    "sha256": "799e303c77c4b9627b5aee383258a522eb23b8d72d5582c9569ea9f79e38d306"
+  },
+  {
+    "county": "Cowlitz WA",
+    "file": "WA_Cowlitz.csv.gz",
+    "sha256": "1c97eb8ed478daf957ba5b720a869a2a518f092e6ec33692a0a402dbd11ecbc4"
+  },
+  {
+    "county": "Crook OR",
+    "file": "OR_Crook.csv.gz",
+    "sha256": "7c2aca5aaca87e7adf208b1b3314d976a4863a6aa059ee2a59d12d87d4c6052f"
+  },
+  {
+    "county": "Crook WY",
+    "file": "WY_Crook.csv.gz",
+    "sha256": "c1f34ae1cb4d38728dd65f52d9c2dacd143bfb8b2eba2b0f73ef03d1cee1cf35"
+  },
+  {
+    "county": "Crowley CO",
+    "file": "CO_Crowley.csv.gz",
+    "sha256": "9e77b5b3cd1f4578c35171b9194505e2c754a7f804c0aa0f9c901aa7b789cd68"
+  },
+  {
+    "county": "Curry OR",
+    "file": "OR_Curry.csv.gz",
+    "sha256": "54c9acf6596d61a2436df0ce221f247c3107e47b122af52c31d357ebb92dfb81"
+  },
+  {
+    "county": "Custer CO",
+    "file": "CO_Custer.csv.gz",
+    "sha256": "00c99beb9fd6fb2c03d5b6c37972de6907efde3e4843801adc5f1ac6e26feda7"
+  },
+  {
+    "county": "Custer ID",
+    "file": "ID_Custer.csv.gz",
+    "sha256": "3bb031e0ef6be17c811f785f468614f90800332a4ed808bd1cd3d8bbf5890fe5"
+  },
+  {
+    "county": "Custer MT",
+    "file": "MT_Custer.csv.gz",
+    "sha256": "dc55dfc4b204c476debe94c68915f25fc333a70f7b53dfaec9210e63e6c4ad93"
+  },
+  {
+    "county": "Custer SD",
+    "file": "SD_Custer.csv.gz",
+    "sha256": "64c480545bd18d92066c750cdd1fa4576ec36e91b7e1000b38e062d12550fa7a"
+  },
+  {
+    "county": "Daggett UT",
+    "file": "UT_Daggett.csv.gz",
+    "sha256": "e8136efce82918c9d829c27254f7019800efae2babc02c31954e339ece5788b9"
+  },
+  {
+    "county": "Davis UT",
+    "file": "UT_Davis.csv.gz",
+    "sha256": "18e484c859721ca141f3126f1943f1b683b7df4c25137fad572c3fccb192dce6"
+  },
+  {
+    "county": "De Baca NM",
+    "file": "NM_De_Baca.csv.gz",
+    "sha256": "7c577c9f208bd930b3788015df8230aa13d91b799a90c9ff5e0b327c34329705"
+  },
+  {
+    "county": "Deer Lodge MT",
+    "file": "MT_Deer_Lodge.csv.gz",
+    "sha256": "1f1edfce8ba4815730dcead48be8f49891b63add1cc1b5865eeb77ab3ce34297"
+  },
+  {
+    "county": "Del Norte CA",
+    "file": "CA_Del_Norte.csv.gz",
+    "sha256": "1a7f6db23bd028c63e02929c00d5f88cfa487c486fcb318fcdb4be31e5b7b19b"
+  },
+  {
+    "county": "Delta CO",
+    "file": "CO_Delta.csv.gz",
+    "sha256": "31f837a17c13172f439f3dcfed27d2763d88966e1d9ec9cc10f392de37cf0197"
+  },
+  {
+    "county": "Denver CO",
+    "file": "CO_Denver.csv.gz",
+    "sha256": "6e0f998a9b7a758c6e49dd216f8d0a828ffa03d5ece6c5dd27194f7292726141"
+  },
+  {
+    "county": "Deschutes OR",
+    "file": "OR_Deschutes.csv.gz",
+    "sha256": "b07e4dcea1e3d882d4ceb94ea9f201f61891515e20597c55dfd64fa004ab4843"
+  },
+  {
+    "county": "Dolores CO",
+    "file": "CO_Dolores.csv.gz",
+    "sha256": "18bb33677191dff52630622742c2e5181dfb3bc43d7b1a458272c7042bf7cea9"
+  },
+  {
+    "county": "Douglas CO",
+    "file": "CO_Douglas.csv.gz",
+    "sha256": "f6365b543d85ae45a0097a55c436b2f2875339d5084479d145c361c5f827558e"
+  },
+  {
+    "county": "Douglas NV",
+    "file": "NV_Douglas.csv.gz",
+    "sha256": "a65089b85f6369d7a7f521fe80d63968df2aeaf1fc18eeaca473c278b7ae5efc"
+  },
+  {
+    "county": "Douglas OR",
+    "file": "OR_Douglas.csv.gz",
+    "sha256": "561b973e18f34f4327e896708ffeeea09f8efb82931c0a3fd62699c46d24feee"
+  },
+  {
+    "county": "Douglas WA",
+    "file": "WA_Douglas.csv.gz",
+    "sha256": "d3482ba8281755dbecb09aac20a2e753f2015aa7a70719046ae15d2e622f5789"
+  },
+  {
+    "county": "Do\u00f1a Ana NM",
+    "file": "NM_Do\u00f1a_Ana.csv.gz",
+    "sha256": "4924ee2e4cd3a0e2668b53e844fd1480eea6dffc2e40011788e359f9220f14af"
+  },
+  {
+    "county": "Duchesne UT",
+    "file": "UT_Duchesne.csv.gz",
+    "sha256": "c8648cbf8bc17f41c56e7b819edd698dcc2615573b26b7bffebe8d90c8e91630"
+  },
+  {
+    "county": "Eagle CO",
+    "file": "CO_Eagle.csv.gz",
+    "sha256": "06e2b0c03fd0496efd3cc65bfbc2613b74971770798db48f6b935b99964d5d1b"
+  },
+  {
+    "county": "Eddy NM",
+    "file": "NM_Eddy.csv.gz",
+    "sha256": "3dcc57569bab42494020af8b860fdd8a264fef846a4075cc2ec68caa859af343"
+  },
+  {
+    "county": "El Dorado CA",
+    "file": "CA_El_Dorado.csv.gz",
+    "sha256": "c3b97ebf4723f6f4b36e349a0e5ef9e0c191e0c70a60299ac825643912a5e9e1"
+  },
+  {
+    "county": "El Paso CO",
+    "file": "CO_El_Paso.csv.gz",
+    "sha256": "9a8dfcccb740bd1e26279cf1ea96ca0b84779d3370f7b23bc0ef8fd1e55b2b33"
+  },
+  {
+    "county": "El Paso TX",
+    "file": "TX_El_Paso.csv.gz",
+    "sha256": "bdebe9c01894dab919d4f3ce04e37695239afae33ef74a006f635f7678f8b0a0"
+  },
+  {
+    "county": "Elbert CO",
+    "file": "CO_Elbert.csv.gz",
+    "sha256": "58052d40b972ac5971dccc3f94602803e7950bc726683cc0d96de7a9597c60d2"
+  },
+  {
+    "county": "Elko NV",
+    "file": "NV_Elko.csv.gz",
+    "sha256": "fda9bdf5851394ac1ff961bae3cc0d72cefd209e5e16646f9517df956019fac6"
+  },
+  {
+    "county": "Elmore ID",
+    "file": "ID_Elmore.csv.gz",
+    "sha256": "c134b5862dae6d43a7731f59eced0e60bc8dba88b6eaeef704531755d0e3e691"
+  },
+  {
+    "county": "Emery UT",
+    "file": "UT_Emery.csv.gz",
+    "sha256": "da4269535b0178c5dabce24dafec0ffbc05a4be029364a5dc2186f2f9b385d8a"
+  },
+  {
+    "county": "Esmeralda NV",
+    "file": "NV_Esmeralda.csv.gz",
+    "sha256": "5426e2d491c2620c3a83aad05cdfcecc781c685b79026648ada174165d9b2638"
+  },
+  {
+    "county": "Eureka NV",
+    "file": "NV_Eureka.csv.gz",
+    "sha256": "eb2b603928d3885468addc12e599482e12ae15582a66b01598b0356c8c0eec3f"
+  },
+  {
+    "county": "Fall River SD",
+    "file": "SD_Fall_River.csv.gz",
+    "sha256": "92d94be1f43341c11622d6ad77c9e643034a2133b309209e408224c2b50e7dcd"
+  },
+  {
+    "county": "Fergus MT",
+    "file": "MT_Fergus.csv.gz",
+    "sha256": "603b03bd752e6fb5ec2f129d45bcb3ca8abfc88b29cab331af4fb87af4a48fad"
+  },
+  {
+    "county": "Ferry WA",
+    "file": "WA_Ferry.csv.gz",
+    "sha256": "dc24a810b9936121d3c8e2b422f37ad8ee81df88baf3579abc51f9bcec3848ce"
+  },
+  {
+    "county": "Flathead MT",
+    "file": "MT_Flathead.csv.gz",
+    "sha256": "7ccbdb3e8b05d7270068fdd1bf9af92774346a6d9138ca0f3a6b699c6a61eca9"
+  },
+  {
+    "county": "Franklin ID",
+    "file": "ID_Franklin.csv.gz",
+    "sha256": "b8e165b761de60a07a6fedebe39a21e9ed2fcb43d5760bad005b3873b9e7cad0"
+  },
+  {
+    "county": "Franklin WA",
+    "file": "WA_Franklin.csv.gz",
+    "sha256": "ff779a90c439599dad005791431f4b7c526a9b964274de31ce333086aca570a6"
+  },
+  {
+    "county": "Fremont CO",
+    "file": "CO_Fremont.csv.gz",
+    "sha256": "70ee02e4a7db7fe06a06455a7e593c32106da124e6965b3ef8e7494c2a75a8f4"
+  },
+  {
+    "county": "Fremont ID",
+    "file": "ID_Fremont.csv.gz",
+    "sha256": "723f30418435a4e3e9dcc4e981141c76162c6f059c4ee757b2e8f80f719abab1"
+  },
+  {
+    "county": "Fremont WY",
+    "file": "WY_Fremont.csv.gz",
+    "sha256": "d42d3fdc5d175207bfa6998d36caa70f09c27d7f541a11dfb0c80985fe400e2d"
+  },
+  {
+    "county": "Fresno CA",
+    "file": "CA_Fresno.csv.gz",
+    "sha256": "77a84267d09d83fe7a7bfb58f0f2bef34043ad4db267fe7d4533f915438cefa3"
+  },
+  {
+    "county": "Gallatin MT",
+    "file": "MT_Gallatin.csv.gz",
+    "sha256": "a774925fc30c3c8e60d24bf359b4cb80b5901e9e20283699f7bf7da7bb222834"
+  },
+  {
+    "county": "Garfield CO",
+    "file": "CO_Garfield.csv.gz",
+    "sha256": "f4cdcf6657112ac4aea73a8ac6e6d828f083341bbdbe6239926f674a21de77db"
+  },
+  {
+    "county": "Garfield MT",
+    "file": "MT_Garfield.csv.gz",
+    "sha256": "2a08a3ce5689f28e2f2edd0183cac1cafbabfc153f3bc60aa74aec0995ac0c9c"
+  },
+  {
+    "county": "Garfield UT",
+    "file": "UT_Garfield.csv.gz",
+    "sha256": "6b07a22978e052b1dadf9f6eea186be795874260d8a7e759173db80237876851"
+  },
+  {
+    "county": "Garfield WA",
+    "file": "WA_Garfield.csv.gz",
+    "sha256": "9f77b5c45166bc4eca3a739094598ec8a7442222dde81b9e475e21e09e9b7600"
+  },
+  {
+    "county": "Gem ID",
+    "file": "ID_Gem.csv.gz",
+    "sha256": "b055f3e2f936df0845bb9e76663fb34e9e8edba8987fa9270e387ebada028f22"
+  },
+  {
+    "county": "Gila AZ",
+    "file": "AZ_Gila.csv.gz",
+    "sha256": "5b5efec62f3bad7ffe4a0cbc8666548a0bba7b9a4272e5621ad1d7f7c329c9d7"
+  },
+  {
+    "county": "Gilliam OR",
+    "file": "OR_Gilliam.csv.gz",
+    "sha256": "df6b21bf0f11578af8efa5c25f637425eed6803963e9e8f703db004180a03739"
+  },
+  {
+    "county": "Gilpin CO",
+    "file": "CO_Gilpin.csv.gz",
+    "sha256": "702df9654c03753d026635741b27c0d7e5b8b4c0e5b749f35d275766ab5c7425"
+  },
+  {
+    "county": "Glacier MT",
+    "file": "MT_Glacier.csv.gz",
+    "sha256": "ecb6a1d45a0506a7df03e6a2bcdb31853d5af433f809ad4187d505b9135212a5"
+  },
+  {
+    "county": "Glenn CA",
+    "file": "CA_Glenn.csv.gz",
+    "sha256": "73d01d98e589270eb9209c42abeebe13395d586425c0a017d6b1fcc18c71576e"
+  },
+  {
+    "county": "Golden Valley MT",
+    "file": "MT_Golden_Valley.csv.gz",
+    "sha256": "6f00dfd37bdc72a213f740102e02b2aabf1728b1506e11785660a2b8da21e8cb"
+  },
+  {
+    "county": "Gooding ID",
+    "file": "ID_Gooding.csv.gz",
+    "sha256": "88a15dda22208dbf1e12243ef146e216e5a954f37291f6972d90ada3aecb8446"
+  },
+  {
+    "county": "Goshen WY",
+    "file": "WY_Goshen.csv.gz",
+    "sha256": "73d0127c0c1dd104243d9ebb2796d1d02f6fc31aa8900446e1ba2f4a559a2e81"
+  },
+  {
+    "county": "Graham AZ",
+    "file": "AZ_Graham.csv.gz",
+    "sha256": "a012a755ce8feb24ee4d3e6ef4c346146fdbe2d62d29c0c057e91a9dd6d637aa"
+  },
+  {
+    "county": "Grand CO",
+    "file": "CO_Grand.csv.gz",
+    "sha256": "8ec58b508b72d087b23044c07e866238b843eee2a847cc566ec6beb219092556"
+  },
+  {
+    "county": "Grand UT",
+    "file": "UT_Grand.csv.gz",
+    "sha256": "6e464cc01b7e2baee8e73646960861e700030c8941f2bfd7ddaceab3715d89cc"
+  },
+  {
+    "county": "Granite MT",
+    "file": "MT_Granite.csv.gz",
+    "sha256": "f9661588469fc57c2e018bf730e41606d38dde05e6f8d6f2b37d3b3220fec916"
+  },
+  {
+    "county": "Grant NM",
+    "file": "NM_Grant.csv.gz",
+    "sha256": "26149c212db0ed7bd6b14ec8d19045e70fca0bc378a9ad5b5f057eb61310dadb"
+  },
+  {
+    "county": "Grant OR",
+    "file": "OR_Grant.csv.gz",
+    "sha256": "20e80dba9f7dfc7ace5a60927393288c8de66b0aaa4a069ce8575092b26aa0f5"
+  },
+  {
+    "county": "Grant WA",
+    "file": "WA_Grant.csv.gz",
+    "sha256": "6c290635b2a2ecb2bd1424a6d6cb0a12ffa23eb85489548b99636aaa2e1bc47d"
+  },
+  {
+    "county": "Grays Harbor WA",
+    "file": "WA_Grays_Harbor.csv.gz",
+    "sha256": "0f62ebf78c9e0567295f7bf9b639ab83f97b59bfb8ebb704b50fd436239c1a21"
+  },
+  {
+    "county": "Greenlee AZ",
+    "file": "AZ_Greenlee.csv.gz",
+    "sha256": "5a63a0cbb07d05ed6e5675dd5e542c5014887ed68b645c8d4da3c8d86e03a517"
+  },
+  {
+    "county": "Guadalupe NM",
+    "file": "NM_Guadalupe.csv.gz",
+    "sha256": "79b2dd05d9782161704cd1650f0b374081fcaeee93588b58275e5824af776600"
+  },
+  {
+    "county": "Gunnison CO",
+    "file": "CO_Gunnison.csv.gz",
+    "sha256": "5d478ee572478d7f57b3f6d3b5201aa57e6d70677526493235e4525495c8ca77"
+  },
+  {
+    "county": "Harding NM",
+    "file": "NM_Harding.csv.gz",
+    "sha256": "215a41ac0ea88dd1f5b3e35200eda6d8e8d4977130a570b7bddf2a86fcc6702e"
+  },
+  {
+    "county": "Harney OR",
+    "file": "OR_Harney.csv.gz",
+    "sha256": "c0fb80481228b9d98ddd941f5e499269b2a385394c7e4e5c0d7d3fe49d2d0dd9"
+  },
+  {
+    "county": "Hidalgo NM",
+    "file": "NM_Hidalgo.csv.gz",
+    "sha256": "6688297edb60993c046090d37a5c3add039d0bf96ece02aa90a3321bd7ba5ce5"
+  },
+  {
+    "county": "Hill MT",
+    "file": "MT_Hill.csv.gz",
+    "sha256": "1e3a9eaadb5c4656d46048ffc412dd41740bc9e0b9ac109db1d60e2235e7295c"
+  },
+  {
+    "county": "Hinsdale CO",
+    "file": "CO_Hinsdale.csv.gz",
+    "sha256": "10f6675f9741faf79a4c43b45f87d2d789c615db5e693ddf034fc157a02f7746"
+  },
+  {
+    "county": "Hood River OR",
+    "file": "OR_Hood_River.csv.gz",
+    "sha256": "4f890af8b908edea81b37187b1584d5edaa71511f2b2668df6707ff0bbef70ae"
+  },
+  {
+    "county": "Hot Springs WY",
+    "file": "WY_Hot_Springs.csv.gz",
+    "sha256": "89634d848e4ebeffcf334a6e976712c8d7f7bb93baa4f81e280a137072cdf573"
+  },
+  {
+    "county": "Huerfano CO",
+    "file": "CO_Huerfano.csv.gz",
+    "sha256": "589630a673fd2ba4953842e152744f86b61a2f97b998f7b662d3834d602dc563"
+  },
+  {
+    "county": "Humboldt CA",
+    "file": "CA_Humboldt.csv.gz",
+    "sha256": "ae3e13a63882396d54033e126c6a6a7c1cdfb04de917364cb0bd507796f9c987"
+  },
+  {
+    "county": "Humboldt NV",
+    "file": "NV_Humboldt.csv.gz",
+    "sha256": "f17f8b6559cdc0e808133b9cd4a8960fb6a466f75cbe8b446d5d5021752a30fd"
+  },
+  {
+    "county": "Idaho ID",
+    "file": "ID_Idaho.csv.gz",
+    "sha256": "8d0b7f19c20d16b312f79b20d83937df5c45c9e7d57e37b98e496a02510153de"
+  },
+  {
+    "county": "Imperial CA",
+    "file": "CA_Imperial.csv.gz",
+    "sha256": "fa5d39c8074cf32eb6a482436fc49ab03b3cb691cd32a364810a008c28e9446a"
+  },
+  {
+    "county": "Inyo CA",
+    "file": "CA_Inyo.csv.gz",
+    "sha256": "a0e2d6e989de011e3874e8e3c63ead04c9b47b5ea46ffc09878c8e4f48b8a95c"
+  },
+  {
+    "county": "Iron UT",
+    "file": "UT_Iron.csv.gz",
+    "sha256": "f5dea93f2d75c4653761bd865d43f3c12d08955b64a0465fda942d0672a143c8"
+  },
+  {
+    "county": "Island WA",
+    "file": "WA_Island.csv.gz",
+    "sha256": "2ddb4a8055877b15ecb4feade64a3bb41a6dd5a4a06cc409aa504a99b842b7a8"
+  },
+  {
+    "county": "Jackson CO",
+    "file": "CO_Jackson.csv.gz",
+    "sha256": "8fc486ff9e493bc855cee21f8b22e54011306915a88283fcccd94da33fc90445"
+  },
+  {
+    "county": "Jackson OR",
+    "file": "OR_Jackson.csv.gz",
+    "sha256": "3e813674edda2ecb35fdce09c10153b89daf9ca46b0b4e242178bbe92b725a93"
+  },
+  {
+    "county": "Jefferson CO",
+    "file": "CO_Jefferson.csv.gz",
+    "sha256": "1961b063f56ea98b1c1dee6fec6ac3cdb7e127b9438d2052cc19d76ef1f14357"
+  },
+  {
+    "county": "Jefferson ID",
+    "file": "ID_Jefferson.csv.gz",
+    "sha256": "08e945b6c1b1bc7c88ab7d51a8347187c48214227b66b4d11153fd42676d441c"
+  },
+  {
+    "county": "Jefferson MT",
+    "file": "MT_Jefferson.csv.gz",
+    "sha256": "f21efe09acebc442164a66862b35b5e5c9d149fb4ef3217a334d8362e0efd4f5"
+  },
+  {
+    "county": "Jefferson OR",
+    "file": "OR_Jefferson.csv.gz",
+    "sha256": "bc51197ef083665d26f3788b7c09a111050c676262fa2a993cf1d18ad2da9857"
+  },
+  {
+    "county": "Jefferson WA",
+    "file": "WA_Jefferson.csv.gz",
+    "sha256": "75ebdef18fdf2c464e099a0e795fd67e0bd30c9a3805bd58dd3533a3af67cedb"
+  },
+  {
+    "county": "Jerome ID",
+    "file": "ID_Jerome.csv.gz",
+    "sha256": "a2e8fe6f51ced9384d6febf3fcb8915dda78b085596240cf04938f11012eaca2"
+  },
+  {
+    "county": "Johnson WY",
+    "file": "WY_Johnson.csv.gz",
+    "sha256": "65c800e83821dc4bd2bb10779e854caa339ca9a6d3e444639f4ab0506a16df45"
+  },
+  {
+    "county": "Josephine OR",
+    "file": "OR_Josephine.csv.gz",
+    "sha256": "c804421d5bedfbc06fc3dd6c1cec116310232ca0909f04f9c3ec0bed11678c94"
+  },
+  {
+    "county": "Juab UT",
+    "file": "UT_Juab.csv.gz",
+    "sha256": "858ca3afea953ab958113823c9bf4108cdb932205a1ca33fbb2211a9fea22dcd"
+  },
+  {
+    "county": "Judith Basin MT",
+    "file": "MT_Judith_Basin.csv.gz",
+    "sha256": "9d94f74f622c772d22f99c63e1cfd527dfcb6a3dac70c8ab415c6abfbbe6d930"
+  },
+  {
+    "county": "Kane UT",
+    "file": "UT_Kane.csv.gz",
+    "sha256": "8c0f28f2da005eca7219d5d8b0682b0f88099703cd6103c121b71b256449b7a4"
+  },
+  {
+    "county": "Kern CA",
+    "file": "CA_Kern.csv.gz",
+    "sha256": "417216226f209207890041b33c83d0758d617f7ee09cf79e359d0323455eeee6"
+  },
+  {
+    "county": "King WA",
+    "file": "WA_King.csv.gz",
+    "sha256": "40d051b02991a756efd38d071f080c39ba49e4328e7d197bfa8dd77ece2bb8a3"
+  },
+  {
+    "county": "Kings CA",
+    "file": "CA_Kings.csv.gz",
+    "sha256": "0028ba74ff1fc8e4fe1a4d6d7d05077e6714ec5dbbc337c77f0feb9fb1cce6c8"
+  },
+  {
+    "county": "Kiowa CO",
+    "file": "CO_Kiowa.csv.gz",
+    "sha256": "518a6682f9b85521e33d3af0921076489135dec303aec0811cbc59da77dd8d3b"
+  },
+  {
+    "county": "Kit Carson CO",
+    "file": "CO_Kit_Carson.csv.gz",
+    "sha256": "82b5573ce89cb327f7757b7bea12272df12ec0028be1791f613e998de12d9773"
+  },
+  {
+    "county": "Kitsap WA",
+    "file": "WA_Kitsap.csv.gz",
+    "sha256": "eeab63468c76fdf98c075639cb0d58dc84f77f8228e83fae8ca9f9bde95ac91e"
+  },
+  {
+    "county": "Kittitas WA",
+    "file": "WA_Kittitas.csv.gz",
+    "sha256": "e64099b65cc1868c09b9c77684f256b887b5f6d3dda349371ff17d12fb38213c"
+  },
+  {
+    "county": "Klamath OR",
+    "file": "OR_Klamath.csv.gz",
+    "sha256": "b2ff0a3784ca35b5c1bc33e4ebf87dd864355f686b6f72685ee8bf137f4b1f7b"
+  },
+  {
+    "county": "Klickitat WA",
+    "file": "WA_Klickitat.csv.gz",
+    "sha256": "e8244df9ef45b76ab85404bca4b5d72e5eff6a1733ca48b639854e12f544afed"
+  },
+  {
+    "county": "Kootenai ID",
+    "file": "ID_Kootenai.csv.gz",
+    "sha256": "973f23a1ec332dc464f183c4925f2f044919b9297ef597d55145b13e639170a6"
+  },
+  {
+    "county": "La Paz AZ",
+    "file": "AZ_La_Paz.csv.gz",
+    "sha256": "da03a4f3e93a8dae0cf570c3f55f1294ede947b9bb340ff11b63c94279f2eff6"
+  },
+  {
+    "county": "La Plata CO",
+    "file": "CO_La_Plata.csv.gz",
+    "sha256": "b2e6a8ec60cacbccf286ebe871168577c54a9cfede43847858dab33c5f927d74"
+  },
+  {
+    "county": "Lake CA",
+    "file": "CA_Lake.csv.gz",
+    "sha256": "ee631d04419b39ab0c607c2a5108641ee4c5ae22e9b74292f700f9c93d9d4e2e"
+  },
+  {
+    "county": "Lake CO",
+    "file": "CO_Lake.csv.gz",
+    "sha256": "0416f29dcf3c82db3a3a50affffef783e01b36f3157399d937c07bb8806193fd"
+  },
+  {
+    "county": "Lake MT",
+    "file": "MT_Lake.csv.gz",
+    "sha256": "3ba370108045fd83be4f0f882b01b94fcd49a4069cc6f83f5ad74feb0c47e781"
+  },
+  {
+    "county": "Lake OR",
+    "file": "OR_Lake.csv.gz",
+    "sha256": "f874b9378fe17906461dd8496af9ac4d4eecb49b631aa1e8fbab9d08e3002eab"
+  },
+  {
+    "county": "Lander NV",
+    "file": "NV_Lander.csv.gz",
+    "sha256": "ff0fa22f563747af6d1c75f10279bb9d3651bf0406cbfd2d9cc410fff3f41f76"
+  },
+  {
+    "county": "Lane OR",
+    "file": "OR_Lane.csv.gz",
+    "sha256": "9639e34d3ce97ab39f3b98aac40c46df7ddd340b1cf62baa0fba3c956cf2b41a"
+  },
+  {
+    "county": "Laramie WY",
+    "file": "WY_Laramie.csv.gz",
+    "sha256": "a7b86342ef1f36dd3e4fed909e518ed5d48c6963ae9896219e2694d2f9581098"
+  },
+  {
+    "county": "Larimer CO",
+    "file": "CO_Larimer.csv.gz",
+    "sha256": "e6ded56c2574446792ee7125590d5e34926a38d66e1ba06141edd863cd735102"
+  },
+  {
+    "county": "Las Animas CO",
+    "file": "CO_Las_Animas.csv.gz",
+    "sha256": "197f1a896f4d0861b210956db158a45aa16a93515db33ca4be3f42a260606a2a"
+  },
+  {
+    "county": "Lassen CA",
+    "file": "CA_Lassen.csv.gz",
+    "sha256": "e9c455de552222700401ff4ceb31692b4372cc1bddc4606059db245cf2fc1caf"
+  },
+  {
+    "county": "Latah ID",
+    "file": "ID_Latah.csv.gz",
+    "sha256": "94ca905ac2f0ca05f86342a76686c0abc5650973f7dc67d589c21e1ca56fdbc2"
+  },
+  {
+    "county": "Lawrence SD",
+    "file": "SD_Lawrence.csv.gz",
+    "sha256": "c429f50a74fc929dcd84cd7e0b2ff0ac1d7925d50aae2d77f57e971fe895363c"
+  },
+  {
+    "county": "Lemhi ID",
+    "file": "ID_Lemhi.csv.gz",
+    "sha256": "e03049bca129a1e320f06203739062d98957d91e05e66365ee455ca79e7b4214"
+  },
+  {
+    "county": "Lewis ID",
+    "file": "ID_Lewis.csv.gz",
+    "sha256": "6e71dc61a8d06e73745bf950a5c8eb6e5d8bb8f6d0fafebb2ada826d89e9cdd2"
+  },
+  {
+    "county": "Lewis WA",
+    "file": "WA_Lewis.csv.gz",
+    "sha256": "723c968fd76d706185bacd13cbec52677acf4a79c481554a5a8311749cd8db1d"
+  },
+  {
+    "county": "Lewis and Clark MT",
+    "file": "MT_Lewis_and_Clark.csv.gz",
+    "sha256": "d8cec1b8b30d9674835c2a311d17e36e01bbbf7c7a1c18371a241f7721d4ed9b"
+  },
+  {
+    "county": "Liberty MT",
+    "file": "MT_Liberty.csv.gz",
+    "sha256": "a65778aa21bebef742af5dd4de27e3e0c48a830dde194e3e8233defb935a69db"
+  },
+  {
+    "county": "Lincoln CO",
+    "file": "CO_Lincoln.csv.gz",
+    "sha256": "792e68aaa2604d244baaf30d74ab935f8f262ce96ffa22f9d07180a851398da4"
+  },
+  {
+    "county": "Lincoln ID",
+    "file": "ID_Lincoln.csv.gz",
+    "sha256": "b3c060bbe59e1760e7064ec737658ff2c7aacbbe0eb87af9803bfc63e849c50c"
+  },
+  {
+    "county": "Lincoln MT",
+    "file": "MT_Lincoln.csv.gz",
+    "sha256": "a3115062fece07050f7a2e79226fe61ec93fb4b1abe52cac2487fa4697169bef"
+  },
+  {
+    "county": "Lincoln NM",
+    "file": "NM_Lincoln.csv.gz",
+    "sha256": "fe025762e5faa18533afbf5f0fcefb803419430900682d495c121ca3d0d67912"
+  },
+  {
+    "county": "Lincoln NV",
+    "file": "NV_Lincoln.csv.gz",
+    "sha256": "4883a54cf17c7f8e76fb941f1e97f47fc4d8d659679d41cf94de5bfc53f0fbcd"
+  },
+  {
+    "county": "Lincoln OR",
+    "file": "OR_Lincoln.csv.gz",
+    "sha256": "7c14f16d091b7880b74d8988ce710be4f46b7b92a86bb1786e9059bb9b42e978"
+  },
+  {
+    "county": "Lincoln WA",
+    "file": "WA_Lincoln.csv.gz",
+    "sha256": "6fc6d3cc4703ab526c0cc9495153167c11a45ccb9d02af27e9a3b11c1a8da288"
+  },
+  {
+    "county": "Lincoln WY",
+    "file": "WY_Lincoln.csv.gz",
+    "sha256": "aba2a585fef2cc4724327cc6da9495c72006312316b3e3ad11440149ee420c7e"
+  },
+  {
+    "county": "Linn OR",
+    "file": "OR_Linn.csv.gz",
+    "sha256": "a6e3ce9aea2401b894d25df76bdddb4ab169933ab3e06096f728d758c93eb582"
+  },
+  {
+    "county": "Logan CO",
+    "file": "CO_Logan.csv.gz",
+    "sha256": "4cc18f1d41d215655326f93461d053425f03952f29db7c6e66ad3e98364cbe69"
+  },
+  {
+    "county": "Los Alamos NM",
+    "file": "NM_Los_Alamos.csv.gz",
+    "sha256": "988861ac3b352c9ee3a9edb5fd82d4e6aa8b2e0871c43312f9e60be0b4549bed"
+  },
+  {
+    "county": "Los Angeles CA",
+    "file": "CA_Los_Angeles.csv.gz",
+    "sha256": "3b28be85087fca818525c484d90fface74c7021b37c496cc1a3364d8425a50c2"
+  },
+  {
+    "county": "Luna NM",
+    "file": "NM_Luna.csv.gz",
+    "sha256": "98fa3214be57e9a361c8a87e9d7d7e65473f558097abb5a634ffc4fba636f14b"
+  },
+  {
+    "county": "Lyon NV",
+    "file": "NV_Lyon.csv.gz",
+    "sha256": "f02c9c4175fd1099980378fba3914d0c6aacf38bfe616104aeacc428f3de803e"
+  },
+  {
+    "county": "Madera CA",
+    "file": "CA_Madera.csv.gz",
+    "sha256": "2282c9a663c368b34bc2e5a12b89f7ba71cf8eeadb0c90587805ab31233eccab"
+  },
+  {
+    "county": "Madison ID",
+    "file": "ID_Madison.csv.gz",
+    "sha256": "02c1967c3fb3e6887e96f5697f1e0d1dee9de1d94cf28a9ebd5c5a13e97fe96f"
+  },
+  {
+    "county": "Madison MT",
+    "file": "MT_Madison.csv.gz",
+    "sha256": "69d6f5005737b66bb21c727f5ebf42de2e41ba4c1c0fb7c7cbef1351e6970295"
+  },
+  {
+    "county": "Malheur OR",
+    "file": "OR_Malheur.csv.gz",
+    "sha256": "845876de8ffab73fda29d7d15518c848b6c36f753b663a121ad8f0c0f935c913"
+  },
+  {
+    "county": "Maricopa AZ",
+    "file": "AZ_Maricopa.csv.gz",
+    "sha256": "f1c4435ed21cf664fb7bc586fd0484430e8ea10c1673ed65e02a20ed33b34fd0"
+  },
+  {
+    "county": "Marin CA",
+    "file": "CA_Marin.csv.gz",
+    "sha256": "add690cf066005281ed15ceff77a9e35ed86fd923f332834f8073c8a3d5dd810"
+  },
+  {
+    "county": "Marion OR",
+    "file": "OR_Marion.csv.gz",
+    "sha256": "2fb8f6bda0e9007907721dd8ff45b8bcd62266ea1347220b98793880b11a47e5"
+  },
+  {
+    "county": "Mariposa CA",
+    "file": "CA_Mariposa.csv.gz",
+    "sha256": "0b1243192f2ac99c4a6532dc490047cfb6f84798c2cee69f655caa0fdfa57e92"
+  },
+  {
+    "county": "Mason WA",
+    "file": "WA_Mason.csv.gz",
+    "sha256": "2d1d5f20dfa8af6a1d767a64e2d669fe61403e467e79231bfcbba8e844fe006c"
+  },
+  {
+    "county": "McCone MT",
+    "file": "MT_McCone.csv.gz",
+    "sha256": "62e11b22c61d9639be216df00b227ca3f41107e29590151adea39e814271569a"
+  },
+  {
+    "county": "McKinley NM",
+    "file": "NM_McKinley.csv.gz",
+    "sha256": "84332e252a3db89e645fe151d3989057e30c0f172c3c228bb00a4f0798c35654"
+  },
+  {
+    "county": "Meagher MT",
+    "file": "MT_Meagher.csv.gz",
+    "sha256": "0f57a3456a5c708622314bd0d85f0f9582289d4bf56fe1f376b7a7514625cff5"
+  },
+  {
+    "county": "Mendocino CA",
+    "file": "CA_Mendocino.csv.gz",
+    "sha256": "6dd5e869d2526c1d8612ea6d64bffa71f8388d7d5b08b50ae1d3713b6505d72f"
+  },
+  {
+    "county": "Merced CA",
+    "file": "CA_Merced.csv.gz",
+    "sha256": "fd49f3645a5547143947836b2d5d5268c4e0901f4d72fb4b6e9da55cd0836a29"
+  },
+  {
+    "county": "Mesa CO",
+    "file": "CO_Mesa.csv.gz",
+    "sha256": "b8907cfe48b59eac2156f76c67082c781dc823d1f9012c041739d66e6610627e"
+  },
+  {
+    "county": "Millard UT",
+    "file": "UT_Millard.csv.gz",
+    "sha256": "735ca6543aeefb263175ac29de401d4d032f0d0408066eb2e2bea6527261660e"
+  },
+  {
+    "county": "Mineral CO",
+    "file": "CO_Mineral.csv.gz",
+    "sha256": "a41b8b1cea96b947f59fa2aaeb260d0fded71c6f9fc7ce47cebbcace7d494c11"
+  },
+  {
+    "county": "Mineral MT",
+    "file": "MT_Mineral.csv.gz",
+    "sha256": "23e66dc3c0832d3c149d0584a7775cfa64292feb91d0c625f17866abe94c40d7"
+  },
+  {
+    "county": "Mineral NV",
+    "file": "NV_Mineral.csv.gz",
+    "sha256": "208312f8435ea7efb6135da156837354495bc02c6e5c45ef7c9e92a8fb9c6359"
+  },
+  {
+    "county": "Minidoka ID",
+    "file": "ID_Minidoka.csv.gz",
+    "sha256": "9a76b1bdf2a0c64b361ae6a1209af2589746f2801e3a83cf906e1c27027d4e41"
+  },
+  {
+    "county": "Missoula MT",
+    "file": "MT_Missoula.csv.gz",
+    "sha256": "a7fbbd66571d08db036ec83b6cc56aa6c70c84d8c046c22e67618ba46abed543"
+  },
+  {
+    "county": "Modoc CA",
+    "file": "CA_Modoc.csv.gz",
+    "sha256": "5428c58a872ef6e3f6a8155231c34e0a766d2246b1bf0b46a20219ed9698536e"
+  },
+  {
+    "county": "Moffat CO",
+    "file": "CO_Moffat.csv.gz",
+    "sha256": "84d445b2698217c1b42c5433b88e14d86752a2eac17f33737728c95fed951239"
+  },
+  {
+    "county": "Mohave AZ",
+    "file": "AZ_Mohave.csv.gz",
+    "sha256": "ec21fb341335557e1b1a65e58fd01367cd15acff3befe76c2c6f0f3b93e2432a"
+  },
+  {
+    "county": "Mono CA",
+    "file": "CA_Mono.csv.gz",
+    "sha256": "daff18b950dfa72e1eace83216f3196b5cc1f95b657a2594dd5aa7499dee494a"
+  },
+  {
+    "county": "Monterey CA",
+    "file": "CA_Monterey.csv.gz",
+    "sha256": "a51aa1fcc621eef4997854b5f21ac5485c10f592647e2a40c106ea1fb48b1bbf"
+  },
+  {
+    "county": "Montezuma CO",
+    "file": "CO_Montezuma.csv.gz",
+    "sha256": "77ae903c87c4451bee12f4fc991927bd54fcba6aef437482b36062f01abc438a"
+  },
+  {
+    "county": "Montrose CO",
+    "file": "CO_Montrose.csv.gz",
+    "sha256": "adba17608cd23d0f59ecac614821d3abfa44a0ff4f189a785d08e0961db5c2c3"
+  },
+  {
+    "county": "Mora NM",
+    "file": "NM_Mora.csv.gz",
+    "sha256": "a122b14372d16f9dd5e12815706a366936e5d2d5ae8eda5472ec5e1332973e57"
+  },
+  {
+    "county": "Morgan CO",
+    "file": "CO_Morgan.csv.gz",
+    "sha256": "5ca6b0abc9fc313728d2b7070fd589c5afcfdff7237ba4e25810255bdfc57953"
+  },
+  {
+    "county": "Morgan UT",
+    "file": "UT_Morgan.csv.gz",
+    "sha256": "eca3c07965cbe3e9ed69dd394cf44861037ce8f26d0e697f68b7390f172fb1f5"
+  },
+  {
+    "county": "Morrow OR",
+    "file": "OR_Morrow.csv.gz",
+    "sha256": "3952f443e14f14ff2bfd07af3fe2e18933a2e4cb7595b5aceea059c7a8f1f682"
+  },
+  {
+    "county": "Multnomah OR",
+    "file": "OR_Multnomah.csv.gz",
+    "sha256": "b5730519d16bcc8f2404109cfb4e292bb298e77534e86d778961363de8d1fb13"
+  },
+  {
+    "county": "Musselshell MT",
+    "file": "MT_Musselshell.csv.gz",
+    "sha256": "d58addb75fe4f5824ea58aeb4c0d694f62fb5725bc3377abd21afa7a77ad6a4f"
+  },
+  {
+    "county": "Napa CA",
+    "file": "CA_Napa.csv.gz",
+    "sha256": "3584a6404fdd964f85b5f70c3bb5a51c555848aac5dada3958eea183b7dbe6b9"
+  },
+  {
+    "county": "Natrona WY",
+    "file": "WY_Natrona.csv.gz",
+    "sha256": "b35bf9837b99b62bb10751cff947cea958483b5066e2217a3fdfa753e202d166"
+  },
+  {
+    "county": "Navajo AZ",
+    "file": "AZ_Navajo.csv.gz",
+    "sha256": "04092968a86599427babf0d2992f081fcdb2730ea1a753780a3d9083127b8689"
+  },
+  {
+    "county": "Nevada CA",
+    "file": "CA_Nevada.csv.gz",
+    "sha256": "7624e72fe8439a3b7c92ca86e004456ee52c9403a123c0fc512ef6383791d17e"
+  },
+  {
+    "county": "Nez Perce ID",
+    "file": "ID_Nez_Perce.csv.gz",
+    "sha256": "11bc84427f2a038885edc861b1d74cb5b8d03c20cfedd2bf160ff0c896915b46"
+  },
+  {
+    "county": "Niobrara WY",
+    "file": "WY_Niobrara.csv.gz",
+    "sha256": "bfc1962dd179616c1e428acdd9c9b7e613feaed50768f02a7b5c86979a558fa1"
+  },
+  {
+    "county": "Nye NV",
+    "file": "NV_Nye.csv.gz",
+    "sha256": "e300ace6c0dc952b942e43b1e5663fd0bbba81d5c639db849aab501d9a05a07a"
+  },
+  {
+    "county": "Okanogan WA",
+    "file": "WA_Okanogan.csv.gz",
+    "sha256": "2ba64e544e846c1072665363d1b21726b7b90f913dd96bc0043c5bd49ed7e346"
+  },
+  {
+    "county": "Oneida ID",
+    "file": "ID_Oneida.csv.gz",
+    "sha256": "8874bc7f15ac00b61c6d27736b96372d48f4bc66326ddcb36f46fc517fb9ed4d"
+  },
+  {
+    "county": "Orange CA",
+    "file": "CA_Orange.csv.gz",
+    "sha256": "ff6310cf99e72a08d0b66cc0c213f1488de80c1034e878b56c8239f1eddf9eb8"
+  },
+  {
+    "county": "Otero CO",
+    "file": "CO_Otero.csv.gz",
+    "sha256": "88b99468305ad3c597cd449e4d37404e77d014fcb5dffa7a57f1132a130b7721"
+  },
+  {
+    "county": "Otero NM",
+    "file": "NM_Otero.csv.gz",
+    "sha256": "5abc678827eb3a7b9da8e0aae55d7b7b2e1129fd716f9e1d65d883bbe9be4e07"
+  },
+  {
+    "county": "Ouray CO",
+    "file": "CO_Ouray.csv.gz",
+    "sha256": "460fc18d09067eae75df5461e8029dfaa8115ed9cb304d70219c49360e40bfbd"
+  },
+  {
+    "county": "Owyhee ID",
+    "file": "ID_Owyhee.csv.gz",
+    "sha256": "fa8127a3c6348c4a3d4555e3062b1116b43f41574d8bad1d001ec1c19ba67517"
+  },
+  {
+    "county": "Pacific WA",
+    "file": "WA_Pacific.csv.gz",
+    "sha256": "8f3c0a11540aebbec4f1d4ca2450f0a59c02afaf1553f3cf34e5391493e2efb9"
+  },
+  {
+    "county": "Park CO",
+    "file": "CO_Park.csv.gz",
+    "sha256": "682fe95f2624d486f30e1888d13d0e1823173945db801460d0f1775d508549fa"
+  },
+  {
+    "county": "Park MT",
+    "file": "MT_Park.csv.gz",
+    "sha256": "2ff70848408c586e296310f1ba110b35d323238edb0a3edd05440be47129de1a"
+  },
+  {
+    "county": "Park WY",
+    "file": "WY_Park.csv.gz",
+    "sha256": "9b692405ec29bb14d8f5e2e41b39a94b660f4c1ecb02e0141335acc0309af9d3"
+  },
+  {
+    "county": "Payette ID",
+    "file": "ID_Payette.csv.gz",
+    "sha256": "b9c558d746edc229e351683589b05c8cccbbbeb83f4fce0f0de6b838604f822c"
+  },
+  {
+    "county": "Pend Oreille WA",
+    "file": "WA_Pend_Oreille.csv.gz",
+    "sha256": "64dfc08e0254fdbf27ca938b351a6a2ed149b902acb6142808711d9ade82f11a"
+  },
+  {
+    "county": "Pershing NV",
+    "file": "NV_Pershing.csv.gz",
+    "sha256": "af9534d61b03f7638e986825f3bf0b10cad370e1a285438c93f8d98963d61cd5"
+  },
+  {
+    "county": "Petroleum MT",
+    "file": "MT_Petroleum.csv.gz",
+    "sha256": "d58290a83c60b3d6855c658b3055898ef83c2810d15424b308f376aef5b80f87"
+  },
+  {
+    "county": "Phillips CO",
+    "file": "CO_Phillips.csv.gz",
+    "sha256": "fb33a2a6403c71f6d0d86b81926be9ed40316d21d8a8b2477a504854b03e0586"
+  },
+  {
+    "county": "Phillips MT",
+    "file": "MT_Phillips.csv.gz",
+    "sha256": "78729a1342e2652f12e9cf3e03d252d9258d53556879348234f682078bb48505"
+  },
+  {
+    "county": "Pierce WA",
+    "file": "WA_Pierce.csv.gz",
+    "sha256": "0f1a117b04d3301e134c27fd2194a5d96d53cbf683671d175595be7476c7eb15"
+  },
+  {
+    "county": "Pima AZ",
+    "file": "AZ_Pima.csv.gz",
+    "sha256": "91ea475aeb42436d7612dd332396c66cfd3f2bf6a5c61b1b6481a7d34af64b5a"
+  },
+  {
+    "county": "Pinal AZ",
+    "file": "AZ_Pinal.csv.gz",
+    "sha256": "ac6287fe3fb6374dd143e1a89530a78abadf776aee7642ed6977b1ff709b8e61"
+  },
+  {
+    "county": "Pitkin CO",
+    "file": "CO_Pitkin.csv.gz",
+    "sha256": "34246e0b7a4abd7e3077d2ca00a7dce8d53ee3ab89f7884fc811f047be1cca48"
+  },
+  {
+    "county": "Piute UT",
+    "file": "UT_Piute.csv.gz",
+    "sha256": "a725efe21d7422d8bda33df2963377e2f8ea47dc2dff7fac28327c7afa8c75ee"
+  },
+  {
+    "county": "Placer CA",
+    "file": "CA_Placer.csv.gz",
+    "sha256": "c02663df814a57f6a196c0c86e2263b053d6f1478098e5daa6f02b551a9181b3"
+  },
+  {
+    "county": "Platte WY",
+    "file": "WY_Platte.csv.gz",
+    "sha256": "02c85966c1de1532b8370b9203fe190702bbda3aa9851d39631330264b2940af"
+  },
+  {
+    "county": "Plumas CA",
+    "file": "CA_Plumas.csv.gz",
+    "sha256": "8de8deef7235186340258e848f5273b96eec863a7cc3e45968e5f017f0dabd10"
+  },
+  {
+    "county": "Polk OR",
+    "file": "OR_Polk.csv.gz",
+    "sha256": "85dc3e2a55201a511eb403305d3e725791826eda2e793f10daf3fb44454e2b25"
+  },
+  {
+    "county": "Pondera MT",
+    "file": "MT_Pondera.csv.gz",
+    "sha256": "fad5484650940eaee979a08f49f03e9cb3a194c040c47751de6e64fda4e9746b"
+  },
+  {
+    "county": "Powder River MT",
+    "file": "MT_Powder_River.csv.gz",
+    "sha256": "f11e3b5726b07b3475c1516b2d078923eb7f28dd49153e33a417739fb93a7c93"
+  },
+  {
+    "county": "Powell MT",
+    "file": "MT_Powell.csv.gz",
+    "sha256": "b243719d37d7d385ce3bf1bba96708d1b3ae5f71d1cb6fcb3cdc349fb64ff05c"
+  },
+  {
+    "county": "Power ID",
+    "file": "ID_Power.csv.gz",
+    "sha256": "baf7775d61bd2ecf014321128f50149d6f11482405fc8952c7412da1382bdfbb"
+  },
+  {
+    "county": "Prairie MT",
+    "file": "MT_Prairie.csv.gz",
+    "sha256": "c5ca8b5e055e92f72361b95c918df72820c2ee9518dca99429663452b1fc480b"
+  },
+  {
+    "county": "Prowers CO",
+    "file": "CO_Prowers.csv.gz",
+    "sha256": "61c62ddd68dc7fd87bd6283416af02a7778222149df248121af4e4722b7473d0"
+  },
+  {
+    "county": "Pueblo CO",
+    "file": "CO_Pueblo.csv.gz",
+    "sha256": "a2e7d1bb22fb5a21485ccba5738db7a783ce7d25235e82e9063464b7e212d6cf"
+  },
+  {
+    "county": "Ravalli MT",
+    "file": "MT_Ravalli.csv.gz",
+    "sha256": "bd1c9b68934f118cacc45ebd74c097a4c3f12bcaac11d03fea381f93976b94c4"
+  },
+  {
+    "county": "Rich UT",
+    "file": "UT_Rich.csv.gz",
+    "sha256": "9f27e8b6d61a1bd72dd53235b3bdd60a2bf9643c1b439f1d7b96a19f4ecfa4d9"
+  },
+  {
+    "county": "Rio Arriba NM",
+    "file": "NM_Rio_Arriba.csv.gz",
+    "sha256": "9d1fdcf5da83219510246a957ba5a5cd444e974e0aaf3659fd3b54b1252a2a2d"
+  },
+  {
+    "county": "Rio Blanco CO",
+    "file": "CO_Rio_Blanco.csv.gz",
+    "sha256": "969adb85a2eea347b17f35a30bf55b64d4159aa56c32bb4e473828b1abb706d9"
+  },
+  {
+    "county": "Rio Grande CO",
+    "file": "CO_Rio_Grande.csv.gz",
+    "sha256": "9e6d9b586f491a6cd94d9618d129b72e8f68c839f14123c5e8453bffc691cfc1"
+  },
+  {
+    "county": "Riverside CA",
+    "file": "CA_Riverside.csv.gz",
+    "sha256": "c33ef5edcd09ff95ad5d652f28c0314dbb2982aa3ee1e461d9334358bb5fe220"
+  },
+  {
+    "county": "Rosebud MT",
+    "file": "MT_Rosebud.csv.gz",
+    "sha256": "b93404b405265b1dd48f7f401430f8d13f45daaff9df48a08a80192f39d74c8b"
+  },
+  {
+    "county": "Routt CO",
+    "file": "CO_Routt.csv.gz",
+    "sha256": "14f56a7bee953ea209f07804879ec50c9ab88f9c2fd938e78ab67e1727832234"
+  },
+  {
+    "county": "Sacramento CA",
+    "file": "CA_Sacramento.csv.gz",
+    "sha256": "aefad1cc98d3b6875b6fe40112c53431f216af4f6796f2b8494ada41b4482bff"
+  },
+  {
+    "county": "Saguache CO",
+    "file": "CO_Saguache.csv.gz",
+    "sha256": "40c15fe98503ee41a73bbf3b37d02dd8761ea6ea6651235408eece1395f675b5"
+  },
+  {
+    "county": "Salt Lake UT",
+    "file": "UT_Salt_Lake.csv.gz",
+    "sha256": "6c08aa1c1b001610f5b28237a395bec25cd59fe38b21948849461731a7189585"
+  },
+  {
+    "county": "San Benito CA",
+    "file": "CA_San_Benito.csv.gz",
+    "sha256": "cacd0371b2adfe42d34a58a1ea70e2ea6998288d3e4714ff23d25f0b59ff54d8"
+  },
+  {
+    "county": "San Bernardino CA",
+    "file": "CA_San_Bernardino.csv.gz",
+    "sha256": "b9a61c4b3127ac37addb869a22fc935b145f6e97eddfd8843df8dba125557cd2"
+  },
+  {
+    "county": "San Diego CA",
+    "file": "CA_San_Diego.csv.gz",
+    "sha256": "8ee3974158402c6d9dfa4a544d33e1e4d8485cb86c42ae46d1dd08017c743396"
+  },
+  {
+    "county": "San Francisco CA",
+    "file": "CA_San_Francisco.csv.gz",
+    "sha256": "8ba115fb79dd1cae55245c0961e305e2767ad109faf5ff1fd7562a9f14efa5c5"
+  },
+  {
+    "county": "San Joaquin CA",
+    "file": "CA_San_Joaquin.csv.gz",
+    "sha256": "203871ba254b52a1a11ff0f3df5add5d19f6679c35e6ef461d8ca5e47c8fb914"
+  },
+  {
+    "county": "San Juan CO",
+    "file": "CO_San_Juan.csv.gz",
+    "sha256": "3f4a80575c0493590aa3dcfcebf698b16b7e1a3ad940e0c021fe5a58273d8951"
+  },
+  {
+    "county": "San Juan NM",
+    "file": "NM_San_Juan.csv.gz",
+    "sha256": "68b8cbe80d0ef56c5aa4804c8f6531281128547f9afc63b7a438e3801a6c7855"
+  },
+  {
+    "county": "San Juan UT",
+    "file": "UT_San_Juan.csv.gz",
+    "sha256": "65fcdfd74e6ec1784c7d7ba20f1ec87e36a9610ee618cd7a1be15f50ae8d8a0e"
+  },
+  {
+    "county": "San Juan WA",
+    "file": "WA_San_Juan.csv.gz",
+    "sha256": "b265f01ff27dd810cd6c2eee4d84f3d24ffba386961c60521b944c1c686b0213"
+  },
+  {
+    "county": "San Luis Obispo CA",
+    "file": "CA_San_Luis_Obispo.csv.gz",
+    "sha256": "47bc336a66da948511eee0339f212bb3bfe1cc98ef271db6868d6b71acb6ed7b"
+  },
+  {
+    "county": "San Mateo CA",
+    "file": "CA_San_Mateo.csv.gz",
+    "sha256": "7ff392e2c9ad8115b0e534ec77be9ead7900deb9b28be99f33407786761e4a2a"
+  },
+  {
+    "county": "San Miguel CO",
+    "file": "CO_San_Miguel.csv.gz",
+    "sha256": "6b3e97b8d91bf16c1b381870548a5938ce3a49ebe693152e7a9ddd9dd8778694"
+  },
+  {
+    "county": "San Miguel NM",
+    "file": "NM_San_Miguel.csv.gz",
+    "sha256": "31139579c3fed7fffe32e36bb8b67e486bedc631ddb2fef6d385226f00cea229"
+  },
+  {
+    "county": "Sanders MT",
+    "file": "MT_Sanders.csv.gz",
+    "sha256": "88ddd49683cc83602f86921ad8ef4acb5a64267f7452977c9b13b81e340e4b3a"
+  },
+  {
+    "county": "Sandoval NM",
+    "file": "NM_Sandoval.csv.gz",
+    "sha256": "806a1389e3792d78cddad0935c0db2b478064433301cb73cc606caab8b3f0b56"
+  },
+  {
+    "county": "Sanpete UT",
+    "file": "UT_Sanpete.csv.gz",
+    "sha256": "db1172da80fdc83f6aeb0298cb102728f7d2f904fd8b56eb54d9a58949d2297e"
+  },
+  {
+    "county": "Santa Barbara CA",
+    "file": "CA_Santa_Barbara.csv.gz",
+    "sha256": "6f9670ba5f6fccc6ef91171678091d9bf722eb95f350a6e66326938f382ece4b"
+  },
+  {
+    "county": "Santa Clara CA",
+    "file": "CA_Santa_Clara.csv.gz",
+    "sha256": "44f46d7c850a6c15a90c49c0df65ea002460d28bdfe7bee8d4bdc2de117172a6"
+  },
+  {
+    "county": "Santa Cruz AZ",
+    "file": "AZ_Santa_Cruz.csv.gz",
+    "sha256": "8a0a63a51e6d5f3b118f2221d4de53abf22cd59f02a7d4cf1637bf524bdb871a"
+  },
+  {
+    "county": "Santa Cruz CA",
+    "file": "CA_Santa_Cruz.csv.gz",
+    "sha256": "474a7544684151b5f97dd83879d33edc4fa32adb6a5bffef5795424f23ec2cf4"
+  },
+  {
+    "county": "Santa Fe NM",
+    "file": "NM_Santa_Fe.csv.gz",
+    "sha256": "9f50ad4d3c55e995dc849130655482c934eb78d1004b1f66b3b1af0ad55abbb1"
+  },
+  {
+    "county": "Sedgwick CO",
+    "file": "CO_Sedgwick.csv.gz",
+    "sha256": "1d67edb5493a8878e9970003053ee2210b43670b776de7b91a63d73912287923"
+  },
+  {
+    "county": "Sevier UT",
+    "file": "UT_Sevier.csv.gz",
+    "sha256": "a4162171ee600774dc0df315ff72d4413e9f3ff25583772fb763d2f658435a46"
+  },
+  {
+    "county": "Shasta CA",
+    "file": "CA_Shasta.csv.gz",
+    "sha256": "96bff736680c3f52b64205b2b0444901b8ce22eeeb74ae552669f8ba90a65b29"
+  },
+  {
+    "county": "Sheridan WY",
+    "file": "WY_Sheridan.csv.gz",
+    "sha256": "27f5ceae5cf0fe880582e2ecd1f3279cc7f44a90fa82e693460c13280588bb7c"
+  },
+  {
+    "county": "Sherman OR",
+    "file": "OR_Sherman.csv.gz",
+    "sha256": "fe2b1d52fdd80f778d8d916cbbf4ee66d29eaaf1492686fe96956e567e1154da"
+  },
+  {
+    "county": "Shoshone ID",
+    "file": "ID_Shoshone.csv.gz",
+    "sha256": "8cb0cfcaee5701cd5f7544a0689bc0b4926cd1b8fde07694c2df915ee74dbc27"
+  },
+  {
+    "county": "Sierra CA",
+    "file": "CA_Sierra.csv.gz",
+    "sha256": "f68d994788924ac58c3a19855d25dc509797ac4c21949a8381583e80a3efc5c1"
+  },
+  {
+    "county": "Sierra NM",
+    "file": "NM_Sierra.csv.gz",
+    "sha256": "392a5066cb95d68d4190ea2b64b35a0b52ea6f2e13be06a5422cdadcaca28b9c"
+  },
+  {
+    "county": "Silver Bow MT",
+    "file": "MT_Silver_Bow.csv.gz",
+    "sha256": "b13ba47d6d7a246655dfb5e3476225ae9cf4cdf4afca88a5cbe323115bb8322a"
+  },
+  {
+    "county": "Siskiyou CA",
+    "file": "CA_Siskiyou.csv.gz",
+    "sha256": "3282705a7c9f2355d4602d3e56c0c0fe9e9c66d64bbd4f1bf2ccbda34cb239a0"
+  },
+  {
+    "county": "Skagit WA",
+    "file": "WA_Skagit.csv.gz",
+    "sha256": "0c0855f0f9a072d41d3cc9bb48605397f3a5b66e8439f2753ade3d187eac1adc"
+  },
+  {
+    "county": "Skamania WA",
+    "file": "WA_Skamania.csv.gz",
+    "sha256": "6da768ecaf399aa8b36901db75eb1c067b4dcdacbb10c2c2bedd98a32c16b73c"
+  },
+  {
+    "county": "Snohomish WA",
+    "file": "WA_Snohomish.csv.gz",
+    "sha256": "c069612d4c36d231dc9b10ca4300df380d5446134743192b77680323ec956f89"
+  },
+  {
+    "county": "Socorro NM",
+    "file": "NM_Socorro.csv.gz",
+    "sha256": "e57575acb3ce8b579c46089b50375b4dc7e57b801aa3813aa0d7aa9b773287a4"
+  },
+  {
+    "county": "Solano CA",
+    "file": "CA_Solano.csv.gz",
+    "sha256": "effa9741cd281745fda5b58355eb2f6433b6c7aef3a94fde8521dae3a90e15c4"
+  },
+  {
+    "county": "Sonoma CA",
+    "file": "CA_Sonoma.csv.gz",
+    "sha256": "3e1fa929850435e1a3d8c2201d41e73f43f4dcbc907c2de8121b52823b695912"
+  },
+  {
+    "county": "Spokane WA",
+    "file": "WA_Spokane.csv.gz",
+    "sha256": "a670d0f7365080fdb1451cabe438cef538ebc6c4a01ab13d23cf737a3ebbedee"
+  },
+  {
+    "county": "Stanislaus CA",
+    "file": "CA_Stanislaus.csv.gz",
+    "sha256": "1a014464accf1e26f9d7307b443fd89bfc5af66d8eeaab80859bcad34f91f676"
+  },
+  {
+    "county": "Stevens WA",
+    "file": "WA_Stevens.csv.gz",
+    "sha256": "fbb3eec96e58594e101e6f89ff17872ff622ee02518d793d5063ecec1ab8390c"
+  },
+  {
+    "county": "Stillwater MT",
+    "file": "MT_Stillwater.csv.gz",
+    "sha256": "94030ed200bfce844a93b50f311d0a713ed6c9dc2d63178adeedbe04df16a23e"
+  },
+  {
+    "county": "Storey NV",
+    "file": "NV_Storey.csv.gz",
+    "sha256": "42b11cc1c13e945fa70f9a6c79b5569865c8248652b05db1956c3048b697e07f"
+  },
+  {
+    "county": "Sublette WY",
+    "file": "WY_Sublette.csv.gz",
+    "sha256": "a4dc9526fea8b3e83747b6b63d1d3b801847efe28d0cdd3e0965f61046717a72"
+  },
+  {
+    "county": "Summit CO",
+    "file": "CO_Summit.csv.gz",
+    "sha256": "6ab597842a5660538d1bc71030405d9a1ad901289394ba263ab2b5b7f514b57e"
+  },
+  {
+    "county": "Summit UT",
+    "file": "UT_Summit.csv.gz",
+    "sha256": "677d0ecb30e963601331296cec2a0efbc9a16f631692a6cfeee1898adfd871d9"
+  },
+  {
+    "county": "Sutter CA",
+    "file": "CA_Sutter.csv.gz",
+    "sha256": "6fdb8f79d756823fe8107d95d39b5044e722a4581f24678611337f3b35d34f03"
+  },
+  {
+    "county": "Sweet Grass MT",
+    "file": "MT_Sweet_Grass.csv.gz",
+    "sha256": "9f91ec7110d5e253abc1a756c09bec4b5040476fc84fec1c0da37e4988b08adb"
+  },
+  {
+    "county": "Sweetwater WY",
+    "file": "WY_Sweetwater.csv.gz",
+    "sha256": "78b6d6c7887e5a6fb87d40f76df31c929d4eb2ce1e42489142bed87faf5b49a1"
+  },
+  {
+    "county": "Taos NM",
+    "file": "NM_Taos.csv.gz",
+    "sha256": "a941788eab75682617557c571d400df0d2854a7a60f0c0fa81dd935c3db069fe"
+  },
+  {
+    "county": "Tehama CA",
+    "file": "CA_Tehama.csv.gz",
+    "sha256": "7902c13e8cd2a58890910127541e05e24185d0396e50e73c6481a24ef926f2f8"
+  },
+  {
+    "county": "Teller CO",
+    "file": "CO_Teller.csv.gz",
+    "sha256": "3c72180a948f64e0e336c976fe316431169dbd289ee02499a5a017a847b937ae"
+  },
+  {
+    "county": "Teton ID",
+    "file": "ID_Teton.csv.gz",
+    "sha256": "7121818c9436d00c39c880321f9ae2b12286f5eff4e000bc99bf56d2bbe31140"
+  },
+  {
+    "county": "Teton MT",
+    "file": "MT_Teton.csv.gz",
+    "sha256": "59609dc9023a8c5f052a71271bb3b80fc2c233af94f4a9dfdf8192bdd1214444"
+  },
+  {
+    "county": "Teton WY",
+    "file": "WY_Teton.csv.gz",
+    "sha256": "c4e8f588c7e639557ae041484a1593daa7a448622d8da5fd68f1928aec87f21f"
+  },
+  {
+    "county": "Thurston WA",
+    "file": "WA_Thurston.csv.gz",
+    "sha256": "bfd4ca5926e14cd9c9b6d23b58a1862b71f37bef267f94736517a46727d457a3"
+  },
+  {
+    "county": "Tillamook OR",
+    "file": "OR_Tillamook.csv.gz",
+    "sha256": "052195b898ca3b86dee02d2fdfb44c68e445836bbebc9eab1aaf0ffc0a88a3a4"
+  },
+  {
+    "county": "Tooele UT",
+    "file": "UT_Tooele.csv.gz",
+    "sha256": "2f40b5854204677579f4aa8b9fd7a716a82eef001aede00e36c7862c1c2e6d94"
+  },
+  {
+    "county": "Toole MT",
+    "file": "MT_Toole.csv.gz",
+    "sha256": "b33ed27475d8dc924c4d686fc71189ea0658e9e84f65332c3d2967065d35bb40"
+  },
+  {
+    "county": "Torrance NM",
+    "file": "NM_Torrance.csv.gz",
+    "sha256": "7025c1e05f96d99f0252d3002b2837bf05cbc292ef283c7bb08718311e8051a2"
+  },
+  {
+    "county": "Treasure MT",
+    "file": "MT_Treasure.csv.gz",
+    "sha256": "b4ee5a84cefad4c2ffbd0fc719f4a336816194b96408dffd4d5ddf7d8b061337"
+  },
+  {
+    "county": "Trinity CA",
+    "file": "CA_Trinity.csv.gz",
+    "sha256": "c73554d945758cc86ebf9f3423ca1f791c965a8686f335756c013d7683ae5ed9"
+  },
+  {
+    "county": "Tulare CA",
+    "file": "CA_Tulare.csv.gz",
+    "sha256": "1fb92c630f596c0da4528e332e8c4834d5c4eb1f17aa68249b298a127197659d"
+  },
+  {
+    "county": "Tuolumne CA",
+    "file": "CA_Tuolumne.csv.gz",
+    "sha256": "b6a23067a041eaafb53f870328b350e449adc402f574bd80f09ce3a2cfba3f09"
+  },
+  {
+    "county": "Twin Falls ID",
+    "file": "ID_Twin_Falls.csv.gz",
+    "sha256": "37f7da3fec4863cd189ed752837ff985e08b3955d7238f4e2cf4bda701a47ead"
+  },
+  {
+    "county": "Uinta WY",
+    "file": "WY_Uinta.csv.gz",
+    "sha256": "25dc010e5bcfe9c00f58e045cc5dcb84d1e6d6808bf7765eb42000b2f88e2140"
+  },
+  {
+    "county": "Uintah UT",
+    "file": "UT_Uintah.csv.gz",
+    "sha256": "5fa0f633e90132d3f375dcfa5007c20b4273efa105d4b2dfce2b9b2c583223c0"
+  },
+  {
+    "county": "Umatilla OR",
+    "file": "OR_Umatilla.csv.gz",
+    "sha256": "abfb492d25469a44b438823e145e6fe9a33de515c1a5b7124618c97284ea1c09"
+  },
+  {
+    "county": "Union NM",
+    "file": "NM_Union.csv.gz",
+    "sha256": "065cf4f6c44c095507c5834472d89ff1f42c17d88a5569570167a1d8f2f03545"
+  },
+  {
+    "county": "Union OR",
+    "file": "OR_Union.csv.gz",
+    "sha256": "a3f20f915ee36deee0cef79188975c86b01d0079894e92e6d12786bb0081bba9"
+  },
+  {
+    "county": "Utah UT",
+    "file": "UT_Utah.csv.gz",
+    "sha256": "22c31a49993cb069b10934de7fedd524b520009cde764acc194791d4a09444ac"
+  },
+  {
+    "county": "Valencia NM",
+    "file": "NM_Valencia.csv.gz",
+    "sha256": "fca538513a0d24781718cbe14202b4ac30a4e9bb78ab3a6e75546888b8bf56c2"
+  },
+  {
+    "county": "Valley ID",
+    "file": "ID_Valley.csv.gz",
+    "sha256": "737aea477b72cfe1cd95d5cb0a4884b5e9357e932e9f6110b9dc06e8e5b99358"
+  },
+  {
+    "county": "Valley MT",
+    "file": "MT_Valley.csv.gz",
+    "sha256": "3be68f8366e9dc5159ff2ad505f0690980a04f9357158532dd1b9d34a2c493f3"
+  },
+  {
+    "county": "Ventura CA",
+    "file": "CA_Ventura.csv.gz",
+    "sha256": "879ca72ee32729d5c325af8390b36d02a7edccb4eb3882d4bbb78fbc17ba48ae"
+  },
+  {
+    "county": "Wahkiakum WA",
+    "file": "WA_Wahkiakum.csv.gz",
+    "sha256": "d4db7beec02f13945f99881e3210fc5f7b6de631ceec7f1e887a0958c7372053"
+  },
+  {
+    "county": "Walla Walla WA",
+    "file": "WA_Walla_Walla.csv.gz",
+    "sha256": "065b63d97e3c113213702953f9da8dd205b1fe43d8e2596de66626d7422a19ee"
+  },
+  {
+    "county": "Wallowa OR",
+    "file": "OR_Wallowa.csv.gz",
+    "sha256": "fa1cd9e768e8a96359d9e6c4dcf353099d4941053ac632747c2c573a61f81a6b"
+  },
+  {
+    "county": "Wasatch UT",
+    "file": "UT_Wasatch.csv.gz",
+    "sha256": "c46ec3eec3ae751d6ba57df87794f68759dfd76537ca52597934ff5c652a6c52"
+  },
+  {
+    "county": "Wasco OR",
+    "file": "OR_Wasco.csv.gz",
+    "sha256": "c2419ee9dabfc6286d56f5972372ec97635deaeeb3b386257810e94daab0fa08"
+  },
+  {
+    "county": "Washakie WY",
+    "file": "WY_Washakie.csv.gz",
+    "sha256": "cea9a169312cb5321417dda528560718bf4075850b00108c78e1532644ba2604"
+  },
+  {
+    "county": "Washington CO",
+    "file": "CO_Washington.csv.gz",
+    "sha256": "929b984c3206ed0b590ca3787a6a6b8a0d9b5108f8c61a8c95767c9213fe0318"
+  },
+  {
+    "county": "Washington ID",
+    "file": "ID_Washington.csv.gz",
+    "sha256": "1ad69182a9d95601dc2c30a3b9b1275b9df6fce6371d7e386a95a1a2ed9e9d1a"
+  },
+  {
+    "county": "Washington OR",
+    "file": "OR_Washington.csv.gz",
+    "sha256": "0664d875480c150b2e61d438e22808c361e5d1d8693dea26aced774eb2012bda"
+  },
+  {
+    "county": "Washington UT",
+    "file": "UT_Washington.csv.gz",
+    "sha256": "66a5750ee78799a33a163a907d002344d95ed2ee77eb213c67ca37752aad733b"
+  },
+  {
+    "county": "Washoe NV",
+    "file": "NV_Washoe.csv.gz",
+    "sha256": "aa7f03662cf62a0c6555c042077f01c339e1d7f3563a4db4ecb3f4f872dc3c9b"
+  },
+  {
+    "county": "Wayne UT",
+    "file": "UT_Wayne.csv.gz",
+    "sha256": "114cd9b83560abe32d75ab64423945adf3ba722dd4fc17621335c166f231162c"
+  },
+  {
+    "county": "Weber UT",
+    "file": "UT_Weber.csv.gz",
+    "sha256": "ca999182dfb8ce22943223c529d55e4135a6dd2ce64dc6282eb84fc5c3dd4f57"
+  },
+  {
+    "county": "Weld CO",
+    "file": "CO_Weld.csv.gz",
+    "sha256": "7f50970d1c9f128727b541670164cdb7fa65706de43deac78175a328a4e9abd0"
+  },
+  {
+    "county": "Weston WY",
+    "file": "WY_Weston.csv.gz",
+    "sha256": "9af258699ef7d0c85e69e5178c85fb42830de6bf4066f97d5984b7506da57bfc"
+  },
+  {
+    "county": "Whatcom WA",
+    "file": "WA_Whatcom.csv.gz",
+    "sha256": "e4e3a09173a1b85a0181a14275dd080f144942491679ace10555e493bdc6d2cf"
+  },
+  {
+    "county": "Wheatland MT",
+    "file": "MT_Wheatland.csv.gz",
+    "sha256": "aa60f8703f469a51d3cab8f39f43f9d3eac93382f6201cf9fdfdd5de76d8416a"
+  },
+  {
+    "county": "Wheeler OR",
+    "file": "OR_Wheeler.csv.gz",
+    "sha256": "f7bdeb16adda84bae47f1117d0078276f8633f934a70d00db9614a0d78de11e6"
+  },
+  {
+    "county": "White Pine NV",
+    "file": "NV_White_Pine.csv.gz",
+    "sha256": "cb5422b0f5fda127ad7538016b2167d882712b537aa30ddcd00e2769741c158f"
+  },
+  {
+    "county": "Whitman WA",
+    "file": "WA_Whitman.csv.gz",
+    "sha256": "b8ea0f3dd29bc28357ddb7abea5269b91f562c32faddfcc67da1770218221395"
+  },
+  {
+    "county": "Yakima WA",
+    "file": "WA_Yakima.csv.gz",
+    "sha256": "ac75a05744ce8535e832342c05420dee78a3035651892d024aace3ea1f4840d8"
+  },
+  {
+    "county": "Yamhill OR",
+    "file": "OR_Yamhill.csv.gz",
+    "sha256": "66f2a3d165b00e082aaee83b357fbf7a90ac4fe474c3d2dcc7b96ed7f2bacc0a"
+  },
+  {
+    "county": "Yavapai AZ",
+    "file": "AZ_Yavapai.csv.gz",
+    "sha256": "f9d394014038fb105c649a1155a547e2b7ed9d3fc5b07b69f121563a81d4676a"
+  },
+  {
+    "county": "Yellowstone MT",
+    "file": "MT_Yellowstone.csv.gz",
+    "sha256": "6bea865dc7b8c2649df80efefe54d9b536cc7677c82d2e9404f31b1862906211"
+  },
+  {
+    "county": "Yolo CA",
+    "file": "CA_Yolo.csv.gz",
+    "sha256": "49013bc305b9977b79e7150c382d90464ea3b209adead7e1487f0aefbea6042b"
+  },
+  {
+    "county": "Yuba CA",
+    "file": "CA_Yuba.csv.gz",
+    "sha256": "0c276ffc46e9cc229cb2c1042917c2d2834b635177587096d19c1e64b99d0bdb"
+  },
+  {
+    "county": "Yuma AZ",
+    "file": "AZ_Yuma.csv.gz",
+    "sha256": "ba66ffcbeebe004f24a5e066b8f79f11712ddcdf6e94d324c8b618ebac7ea7cb"
+  },
+  {
+    "county": "Yuma CO",
+    "file": "CO_Yuma.csv.gz",
+    "sha256": "a18b4af63123f58a8ceae7d772ed247aae83d9db3d92346c1a528bf27356b32d"
+  }
+]

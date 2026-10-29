@@ -1,0 +1,19 @@
+{
+  "installed_packages_match": 88,
+  "git_commits_verified": 8,
+  "run_source_files_matched": 9,
+  "platform": "macOS arm64",
+  "source_manifest_sha256": "f9ed2ff13a4f8722eadbae334578052287c432bd36cc23482a452a8111b19034",
+  "prediction_checks": [
+    {
+      "county": "Ada ID",
+      "holdout": "5d",
+      "max_abs_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Ada ID",
+      "holdout": "5w",
+      "max_abs_prediction_difference_mw": 0.0
+    }
+  ]
+}

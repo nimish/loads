@@ -3,6 +3,9 @@
 
 Electric loads data accessor and multi-sector load data tool
 
+For the frozen OLS/XGBoost/TSGAM county comparison, see the
+[reproducible baseline benchmark](benchmarks/calendar-weather/README.md).
+
 `loads` builds hourly, county-level US electric (and non-electric) load models
 from public data sources, mostly for the WECC region. It compiles residential,
 commercial, industrial, and agricultural loads for 2018, predicts them for

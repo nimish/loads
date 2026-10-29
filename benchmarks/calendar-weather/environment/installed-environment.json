@@ -1,0 +1,392 @@
+{
+  "python": "3.12.6 (v3.12.6:a4a2d2b0d85, Sep  6 2024, 16:08:03) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "packages": [
+    {
+      "name": "anyio",
+      "version": "4.15.1"
+    },
+    {
+      "name": "attrs",
+      "version": "26.1.0"
+    },
+    {
+      "name": "cache",
+      "version": "0.0.0",
+      "git": "https://github.com/eudoxys/cache.git",
+      "rev": "eb9317bde4f637308d24efe875ac4897305074bc",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "certifi",
+      "version": "2026.7.22"
+    },
+    {
+      "name": "cffi",
+      "version": "2.1.1"
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.2"
+    },
+    {
+      "name": "clarabel",
+      "version": "0.11.1"
+    },
+    {
+      "name": "click",
+      "version": "8.5.0"
+    },
+    {
+      "name": "cloudpickle",
+      "version": "3.1.2"
+    },
+    {
+      "name": "contourpy",
+      "version": "1.4.0"
+    },
+    {
+      "name": "cvxpy",
+      "version": "1.9.3"
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1"
+    },
+    {
+      "name": "docutils",
+      "version": "0.23"
+    },
+    {
+      "name": "eia",
+      "version": "0.0.1",
+      "git": "https://github.com/eudoxys/eia.git",
+      "rev": "bf6c690326d4673eb83fae0709413e785d7adb51",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "et-xmlfile",
+      "version": "2.0.0"
+    },
+    {
+      "name": "fips",
+      "version": "0.0.0",
+      "git": "https://github.com/eudoxys/fips.git",
+      "rev": "f178407078fed13189347288efe73b3ddecdb7a9",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "fonttools",
+      "version": "4.66.1"
+    },
+    {
+      "name": "geohash",
+      "version": "0.0.1",
+      "git": "https://github.com/eudoxys/geohash.git",
+      "rev": "4da3a0ccffaddb74c532ef63f59de671b603eb0f",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "h11",
+      "version": "0.16.0"
+    },
+    {
+      "name": "h5json",
+      "version": "2.0.1"
+    },
+    {
+      "name": "h5py",
+      "version": "3.16.0"
+    },
+    {
+      "name": "h5pyd",
+      "version": "1.0.0"
+    },
+    {
+      "name": "highspy",
+      "version": "1.15.1"
+    },
+    {
+      "name": "idna",
+      "version": "3.20"
+    },
+    {
+      "name": "iniconfig",
+      "version": "2.3.1"
+    },
+    {
+      "name": "itsdangerous",
+      "version": "2.2.0"
+    },
+    {
+      "name": "jedi",
+      "version": "0.20.0"
+    },
+    {
+      "name": "jinja2",
+      "version": "3.1.6"
+    },
+    {
+      "name": "joblib",
+      "version": "1.6.0"
+    },
+    {
+      "name": "jsonschema",
+      "version": "4.26.0"
+    },
+    {
+      "name": "jsonschema-specifications",
+      "version": "2025.9.1"
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.5.1"
+    },
+    {
+      "name": "loads",
+      "version": "0.0.0",
+      "git": "https://github.com/eudoxys/loads.git",
+      "rev": "608b9c464a5762e10f0c588c324674794dc1ee06",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "loro",
+      "version": "1.16.2"
+    },
+    {
+      "name": "marimo",
+      "version": "0.25.1"
+    },
+    {
+      "name": "markdown",
+      "version": "3.11"
+    },
+    {
+      "name": "markupsafe",
+      "version": "3.0.4"
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.11.2"
+    },
+    {
+      "name": "msgspec",
+      "version": "0.22.0"
+    },
+    {
+      "name": "narwhals",
+      "version": "2.27.1"
+    },
+    {
+      "name": "numpy",
+      "version": "2.5.3"
+    },
+    {
+      "name": "openpyxl",
+      "version": "3.1.5"
+    },
+    {
+      "name": "osqp",
+      "version": "1.1.3"
+    },
+    {
+      "name": "packaging",
+      "version": "26.3"
+    },
+    {
+      "name": "pandas",
+      "version": "3.0.6"
+    },
+    {
+      "name": "parso",
+      "version": "0.8.7"
+    },
+    {
+      "name": "pillow",
+      "version": "12.3.0"
+    },
+    {
+      "name": "pluggy",
+      "version": "1.6.0"
+    },
+    {
+      "name": "psutil",
+      "version": "7.2.2"
+    },
+    {
+      "name": "pvlib",
+      "version": "0.16.1"
+    },
+    {
+      "name": "pycparser",
+      "version": "3.11"
+    },
+    {
+      "name": "pygments",
+      "version": "2.21.0"
+    },
+    {
+      "name": "pymdown-extensions",
+      "version": "11.0.2"
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.3"
+    },
+    {
+      "name": "pytest",
+      "version": "9.1.1"
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0"
+    },
+    {
+      "name": "python-multipart",
+      "version": "0.0.32"
+    },
+    {
+      "name": "pytz",
+      "version": "2026.5"
+    },
+    {
+      "name": "pyxlsb",
+      "version": "1.0.10"
+    },
+    {
+      "name": "pyyaml",
+      "version": "6.0.3"
+    },
+    {
+      "name": "pyzmq",
+      "version": "27.2.0"
+    },
+    {
+      "name": "qdldl",
+      "version": "0.1.9.post1"
+    },
+    {
+      "name": "qss",
+      "version": "0.2.5"
+    },
+    {
+      "name": "referencing",
+      "version": "0.37.0"
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2"
+    },
+    {
+      "name": "requests-unixsocket",
+      "version": "0.4.1"
+    },
+    {
+      "name": "rpds-py",
+      "version": "2026.9.1"
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.9.1"
+    },
+    {
+      "name": "scipy",
+      "version": "1.18.1"
+    },
+    {
+      "name": "scs",
+      "version": "3.3.1"
+    },
+    {
+      "name": "setuptools",
+      "version": "84.0.0"
+    },
+    {
+      "name": "sig-decomp",
+      "version": "0.3.2"
+    },
+    {
+      "name": "signaldecomp",
+      "version": "0.1.0",
+      "git": "https://github.com/cvxgrp/cvx-sd-skill.git",
+      "rev": "70e7388406b76fe06f9e8b0ed02cda11cc37e987",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "six",
+      "version": "1.17.0"
+    },
+    {
+      "name": "sparsediffpy",
+      "version": "0.6.1"
+    },
+    {
+      "name": "spcqe",
+      "version": "0.3.0"
+    },
+    {
+      "name": "starlette",
+      "version": "1.7.0"
+    },
+    {
+      "name": "threadpoolctl",
+      "version": "3.7.0"
+    },
+    {
+      "name": "tomlkit",
+      "version": "0.15.1"
+    },
+    {
+      "name": "tqdm",
+      "version": "4.70.1"
+    },
+    {
+      "name": "tsgam-estimator",
+      "version": "0.1.0",
+      "git": "https://github.com/nimish/estimator.git",
+      "rev": "52b3fa60a9923b3ee69ff43eb43affbe58b3d077",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "typing-extensions",
+      "version": "4.16.0"
+    },
+    {
+      "name": "tzdata",
+      "version": "2026.5"
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0"
+    },
+    {
+      "name": "uvicorn",
+      "version": "0.54.0"
+    },
+    {
+      "name": "weather",
+      "version": "0.0.0",
+      "git": "https://github.com/eudoxys/weather.git",
+      "rev": "b418501cb95113b34f1aa4bb696e2f7756da35b1",
+      "original_install": "editable local checkout"
+    },
+    {
+      "name": "websockets",
+      "version": "17.2"
+    },
+    {
+      "name": "xgboost",
+      "version": "3.4.1"
+    }
+  ],
+  "metadata_overrides": {
+    "loads": {
+      "excluded_requirement": "plotly",
+      "reason": "Not installed in the observed run environment"
+    },
+    "pvlib": {
+      "source": "registry",
+      "version": "0.16.1",
+      "reason": "Observed installation was registry, despite weather Git requirement"
+    }
+  }
+}

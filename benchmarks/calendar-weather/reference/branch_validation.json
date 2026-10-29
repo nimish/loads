@@ -1,0 +1,157 @@
+{
+  "unit_tests_passed": 8,
+  "fresh_fit_checks": 20,
+  "historical_verify_only_passed": true,
+  "all_407_counties_rerun": false,
+  "environment_versions_verified": 88,
+  "git_dependencies_verified": 8,
+  "checks": [
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5d",
+      "family": "ols",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 1.800799509510398e-10
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5d",
+      "family": "tsgam",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5d",
+      "family": "xgboost",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5w",
+      "family": "ols",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 1.8826540326699615e-10
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5w",
+      "family": "tsgam",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Los Angeles CA",
+      "holdout": "5w",
+      "family": "xgboost",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5d",
+      "family": "ols",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 9.822542779147625e-11
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5d",
+      "family": "tsgam",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5d",
+      "family": "xgboost",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5w",
+      "family": "ols",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 1.3096723705530167e-10
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5w",
+      "family": "tsgam",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Maricopa AZ",
+      "holdout": "5w",
+      "family": "xgboost",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5d",
+      "family": "ols",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 1.233502189279534e-11
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5d",
+      "family": "tsgam",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5d",
+      "family": "xgboost",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5w",
+      "family": "ols",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 1.2278178473934531e-11
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5w",
+      "family": "tsgam",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Spokane WA",
+      "holdout": "5w",
+      "family": "xgboost",
+      "reference_run": "2026-10-20-calendar-and-weather-humidity",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Ada ID",
+      "holdout": "5d",
+      "family": "tsgam",
+      "reference_run": "2026-10-28-tsgam-regularization",
+      "max_absolute_prediction_difference_mw": 0.0
+    },
+    {
+      "county": "Ada ID",
+      "holdout": "5w",
+      "family": "tsgam",
+      "reference_run": "2026-10-28-tsgam-regularization",
+      "max_absolute_prediction_difference_mw": 0.0
+    }
+  ],
+  "source_sha256": {
+    "compare.py": "52ec4406ec6f600ec82f8a5aef96bef0eeb9d1b69b9892a40063f9d28973232a",
+    "calendar_weather.py": "bf5b974bccbe924b1ba91e294673ed15988ef8256b3e6628d0ab2c109801351d",
+    "example.py": "1821d9bf42531ad8b833b4f6a15eb7f2f27ca8148b682fb2deed07fd361dbb59",
+    "environment/uv.lock": "0caccb2b8fab1e543998f7ba2d6780add7ebfcdd3287c16b075f8f6afd7c679f",
+    "inputs.json": "2ffe01734f8c60c75255f937f381599539128b0f5f7bfd3bde63bf953c4497ba"
+  }
+}

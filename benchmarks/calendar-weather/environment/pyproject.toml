@@ -1,0 +1,113 @@
+[project]
+name = "eudoxys-run-environment"
+version = "0.0.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "anyio==4.15.1",
+  "attrs==26.1.0",
+  "cache",
+  "certifi==2026.7.22",
+  "cffi==2.1.1",
+  "charset-normalizer==3.5.2",
+  "clarabel==0.11.1",
+  "click==8.5.0",
+  "cloudpickle==3.1.2",
+  "contourpy==1.4.0",
+  "cvxpy==1.9.3",
+  "cycler==0.12.1",
+  "docutils==0.23",
+  "eia",
+  "et-xmlfile==2.0.0",
+  "fips",
+  "fonttools==4.66.1",
+  "geohash",
+  "h11==0.16.0",
+  "h5json==2.0.1",
+  "h5py==3.16.0",
+  "h5pyd==1.0.0",
+  "highspy==1.15.1",
+  "idna==3.20",
+  "iniconfig==2.3.1",
+  "itsdangerous==2.2.0",
+  "jedi==0.20.0",
+  "jinja2==3.1.6",
+  "joblib==1.6.0",
+  "jsonschema==4.26.0",
+  "jsonschema-specifications==2025.9.1",
+  "kiwisolver==1.5.1",
+  "loads",
+  "loro==1.16.2",
+  "marimo==0.25.1",
+  "markdown==3.11",
+  "markupsafe==3.0.4",
+  "matplotlib==3.11.2",
+  "msgspec==0.22.0",
+  "narwhals==2.27.1",
+  "numpy==2.5.3",
+  "openpyxl==3.1.5",
+  "osqp==1.1.3",
+  "packaging==26.3",
+  "pandas==3.0.6",
+  "parso==0.8.7",
+  "pillow==12.3.0",
+  "pluggy==1.6.0",
+  "psutil==7.2.2",
+  "pvlib==0.16.1",
+  "pycparser==3.11",
+  "pygments==2.21.0",
+  "pymdown-extensions==11.0.2",
+  "pyparsing==3.3.3",
+  "pytest==9.1.1",
+  "python-dateutil==2.9.0.post0",
+  "python-multipart==0.0.32",
+  "pytz==2026.5",
+  "pyxlsb==1.0.10",
+  "pyyaml==6.0.3",
+  "pyzmq==27.2.0",
+  "qdldl==0.1.9.post1",
+  "qss==0.2.5",
+  "referencing==0.37.0",
+  "requests==2.34.2",
+  "requests-unixsocket==0.4.1",
+  "rpds-py==2026.9.1",
+  "scikit-learn==1.9.1",
+  "scipy==1.18.1",
+  "scs==3.3.1",
+  "setuptools==84.0.0",
+  "sig-decomp==0.3.2",
+  "signaldecomp",
+  "six==1.17.0",
+  "sparsediffpy==0.6.1",
+  "spcqe==0.3.0",
+  "starlette==1.7.0",
+  "threadpoolctl==3.7.0",
+  "tomlkit==0.15.1",
+  "tqdm==4.70.1",
+  "tsgam-estimator",
+  "typing-extensions==4.16.0",
+  "tzdata==2026.5",
+  "urllib3==2.8.0",
+  "uvicorn==0.54.0",
+  "weather",
+  "websockets==17.2",
+  "xgboost==3.4.1",
+]
+
+[tool.uv]
+package = false
+override-dependencies = ["cache @ git+https://github.com/eudoxys/cache.git@eb9317bde4f637308d24efe875ac4897305074bc", "eia @ git+https://github.com/eudoxys/eia.git@bf6c690326d4673eb83fae0709413e785d7adb51", "fips @ git+https://github.com/eudoxys/fips.git@f178407078fed13189347288efe73b3ddecdb7a9", "geohash @ git+https://github.com/eudoxys/geohash.git@4da3a0ccffaddb74c532ef63f59de671b603eb0f", "loads @ git+https://github.com/eudoxys/loads.git@608b9c464a5762e10f0c588c324674794dc1ee06", "signaldecomp @ git+https://github.com/cvxgrp/cvx-sd-skill.git@70e7388406b76fe06f9e8b0ed02cda11cc37e987", "tsgam-estimator @ git+https://github.com/nimish/estimator.git@52b3fa60a9923b3ee69ff43eb43affbe58b3d077", "weather @ git+https://github.com/eudoxys/weather.git@b418501cb95113b34f1aa4bb696e2f7756da35b1", "pvlib==0.16.1"]
+
+[tool.uv.sources]
+cache = { git = "https://github.com/eudoxys/cache.git", rev = "eb9317bde4f637308d24efe875ac4897305074bc" }
+eia = { git = "https://github.com/eudoxys/eia.git", rev = "bf6c690326d4673eb83fae0709413e785d7adb51" }
+fips = { git = "https://github.com/eudoxys/fips.git", rev = "f178407078fed13189347288efe73b3ddecdb7a9" }
+geohash = { git = "https://github.com/eudoxys/geohash.git", rev = "4da3a0ccffaddb74c532ef63f59de671b603eb0f" }
+loads = { git = "https://github.com/eudoxys/loads.git", rev = "608b9c464a5762e10f0c588c324674794dc1ee06" }
+signaldecomp = { git = "https://github.com/cvxgrp/cvx-sd-skill.git", rev = "70e7388406b76fe06f9e8b0ed02cda11cc37e987" }
+tsgam-estimator = { git = "https://github.com/nimish/estimator.git", rev = "52b3fa60a9923b3ee69ff43eb43affbe58b3d077" }
+weather = { git = "https://github.com/eudoxys/weather.git", rev = "b418501cb95113b34f1aa4bb696e2f7756da35b1" }
+
+[[tool.uv.dependency-metadata]]
+name = "loads"
+version = "0.0.0"
+requires-dist = ["cvxpy", "h5pyd", "marimo", "matplotlib", "numpy", "openpyxl", "pandas", "pytz", "pyxlsb", "requests", "scikit-learn", "spcqe", "tsgam_estimator @ git+https://github.com/nimish/estimator", "cache @ git+https://github.com/eudoxys/cache", "eia @ git+https://github.com/eudoxys/eia", "fips @ git+https://github.com/eudoxys/fips", "weather @ git+https://github.com/eudoxys/weather", "geohash @ git+https://github.com/eudoxys/geohash"]
